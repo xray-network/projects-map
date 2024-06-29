@@ -27,6 +27,13 @@ Map of repositories so you don't get confused
 | NFTCDN Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | — | 
 | Pricing Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | — | 
 
+## Pigz.io
+| Name | Repo | Visibility | License | Related Link |
+| --- | --- | --- | --- | --- |
+| Home | [pigz-home](https://github.com/xray-network/pigz-home) | private | — | https://pigz.io |
+| App | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | Telegram Bot: @pigz_io_bot |
+| Realm Server (Worker) | [pigz-realm-server](https://github.com/xray-network/pigz-realm-server) | private | — | — |
+
 ## Misc
 
 | Repo | Name  | Visibility | License | Related Link |
