@@ -20,6 +20,7 @@ Map of repositories so you don't get confused
 | Output Session Manager | [xray-graph-output-session-manager](https://github.com/xray-network/xray-graph-output-session-manager) | private | — | — |
 | Output AI (Worker) | [xray-graph-output-ai](https://github.com/xray-network/xray-graph-output-ai) | private | — | — |
 | Output AI Trainer (Worker) | [xray-graph-output-ai-trainer](https://github.com/xray-network/xray-graph-output-ai) | private | — | — |
+| Output Vault (Worker) | [xray-graph-output-ai-trainer](https://github.com/xray-network/xray-graph-output-vault) | private | — | — |
 | Koios Tiny | [xray-graph-koios-tiny](https://github.com/xray-network/xray-graph-koios-tiny) | public | MIT | — |
 | Ogmios | [xray-graph-ogmios](https://github.com/xray-network/xray-graph-ogmios) | public | MIT | — | 
 | Kupo+Ogmios | [xray-graph-kupmios](https://github.com/xray-network/xray-graph-kupmios) | public | MIT | — | 
