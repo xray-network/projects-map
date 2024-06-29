@@ -22,6 +22,8 @@ Map of repositories so you don't get confused
 | Output AI Trainer (Worker) | [xray-graph-output-ai-trainer](https://github.com/xray-network/xray-graph-output-ai) | private | — | — |
 | Output Vault (Worker) | [xray-graph-output-vault](https://github.com/xray-network/xray-graph-output-vault) | private | — | — |
 | Koios Tiny | [xray-graph-koios-tiny](https://github.com/xray-network/xray-graph-koios-tiny) | public | MIT | — |
+| NFTCDN | [xray-graph-nftcdn](https://github.com/xray-network/xray-graph-nftcdn) | public | MIT | — |
+| Pricing | [xray-graph-pricing](https://github.com/xray-network/xray-graph-pricing) | private (opens) | MIT | — |
 | Ogmios | [xray-graph-ogmios](https://github.com/xray-network/xray-graph-ogmios) | public | MIT | — | 
 | Kupo+Ogmios | [xray-graph-kupmios](https://github.com/xray-network/xray-graph-kupmios) | public | MIT | — | 
 | Koios Clinet | [cardano-koios-client](https://github.com/xray-network/cardano-koios-client) | public | MIT | — |
