@@ -26,7 +26,7 @@ Map of repositories so you don't get confused
 | Pricing | [xray-graph-pricing](https://github.com/xray-network/xray-graph-pricing) | private (opens) | MIT | — |
 | Ogmios | [xray-graph-ogmios](https://github.com/xray-network/xray-graph-ogmios) | public | MIT | — | 
 | Kupo+Ogmios | [xray-graph-kupmios](https://github.com/xray-network/xray-graph-kupmios) | public | MIT | — | 
-| Koios Clinet | [cardano-koios-client](https://github.com/xray-network/cardano-koios-client) | public | MIT | — |
+| Koios Client | [cardano-koios-client](https://github.com/xray-network/cardano-koios-client) | public | MIT | — |
 | NFTCDN Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | — | 
 | Pricing Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | — | 
 
