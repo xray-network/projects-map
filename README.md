@@ -41,6 +41,7 @@ Map of repositories so you don't get confused
 
 | Repo | Name  | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
+| Resources CDN | [cdn](https://github.com/xray-network/cdn) | private | — | https://cdn.xray.app |
 | CardanoWeb3js Tutorial | [cw3js-video-tutorial](https://github.com/xray-network/cw3js-video-tutorial) | public | MIT | https://www.youtube.com/watch?v=yA1FpOxEvFE |
 
 
