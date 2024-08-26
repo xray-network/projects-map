@@ -42,6 +42,7 @@ Map of repositories so you don't get confused
 | Repo | Name  | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Resources CDN | [cdn](https://github.com/xray-network/cdn) | private | — | https://cdn.xray.app |
+| Captcha (CF Workers) | [cloudflare-workers-captcha](https://github.com/xray-network/cloudflare-workers-captcha) | public | MIT | — |
 | CardanoWeb3js Tutorial | [cw3js-video-tutorial](https://github.com/xray-network/cw3js-video-tutorial) | public | MIT | https://www.youtube.com/watch?v=yA1FpOxEvFE |
 
 
@@ -50,7 +51,7 @@ Map of repositories so you don't get confused
 | --- | --- | --- | --- | --- |
 | Minterr.io (V1) | [minterr-app](https://github.com/xray-network/minterr-app) | public | MIT | https://minterr.io |
 | RayWallet (V1) | [raywallet-app](https://github.com/xray-network/raywallet-app) | public | MIT | https://app.raywallet.io |
-| Network Stats (Worker) | [cloudflare-worker-network-stats](https://github.com/xray-network/cloudflare-worker-network-stats) | public | MIT | — |
-| Tokens Images (Worker) | [cloudflare-worker-metadata-to-cf-images-cdn](https://github.com/xray-network/cloudflare-worker-metadata-to-cf-images-cdn) | public | MIT | — |
-| Output Load Balancer (Worker) | [cloudflare-worker-output-load-balancer](https://github.com/xray-network/cloudflare-worker-output-load-balancer) | public | MIT | — |
-| Turbo TX Send (Worker) | [cloudflare-worker-turbo-tx-send](https://github.com/xray-network/cloudflare-worker-turbo-tx-send) | public | MIT | — |
+| Network Stats (CF Workers) | [cloudflare-worker-network-stats](https://github.com/xray-network/cloudflare-worker-network-stats) | public | MIT | — |
+| Native Token Images (CF Workers) | [cloudflare-worker-metadata-to-cf-images-cdn](https://github.com/xray-network/cloudflare-worker-metadata-to-cf-images-cdn) | public | MIT | — |
+| Output Load Balancer (CF Workers) | [cloudflare-worker-output-load-balancer](https://github.com/xray-network/cloudflare-worker-output-load-balancer) | public | MIT | — |
+| Turbo TX Send (CF Workers) | [cloudflare-worker-turbo-tx-send](https://github.com/xray-network/cloudflare-worker-turbo-tx-send) | public | MIT | — |
