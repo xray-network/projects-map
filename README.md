@@ -10,17 +10,16 @@ Map of repositories so you don't get confused
 | XRAY/App* | [xray-app](https://github.com/xray-network/xray-app) | private | — | https://xray.app, https://wallet.xray.app, https://minterr.io | 
 | XRAY/Vault | [xray-vault](https://github.com/xray-network/xray-vault) | private (opens) | MIT | https://vault.xray.app | 
 
-\* XRAY/App contains the following default apps: App, Wallet, Graph, Stake, Swap, Pad, List, Minterr, Explorer, Faucet, Mini Apps<br />
-\* XRAY/App is built as: WebApp (PWA), Telegram Mini App, Browser Extension, Minterr.io WebApp (PWA)
+\* App, Wallet, Graph, Stake, Swap, Pad, List, Minterr, Explorer, Faucet, Mini Apps. Built as: WebApp (PWA), Telegram Mini App, Browser Extension, Minterr.io WebApp (PWA)
 
 ## XRAY/Graph
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Output (Worker) | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | — |
+| Output (CF Workers) | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | — |
 | Output Session Manager | [xray-graph-output-session-manager](https://github.com/xray-network/xray-graph-output-session-manager) | private | — | — |
-| Output AI (Worker) | [xray-graph-output-ai](https://github.com/xray-network/xray-graph-output-ai) | private | — | — |
-| Output AI Trainer (Worker) | [xray-graph-output-ai-trainer](https://github.com/xray-network/xray-graph-output-ai) | private | — | — |
-| Output Vault (Worker) | [xray-graph-output-vault](https://github.com/xray-network/xray-graph-output-vault) | private | — | — |
+| Output AI (CF Workers) | [xray-graph-output-ai](https://github.com/xray-network/xray-graph-output-ai) | private | — | — |
+| Output AI Trainer (CF Workers) | [xray-graph-output-ai-trainer](https://github.com/xray-network/xray-graph-output-ai) | private | — | — |
+| Output Vault (CF Workers) | [xray-graph-output-vault](https://github.com/xray-network/xray-graph-output-vault) | private | — | — |
 | Koios Tiny | [xray-graph-koios-tiny](https://github.com/xray-network/xray-graph-koios-tiny) | public | MIT | — |
 | NFTCDN | [xray-graph-nftcdn](https://github.com/xray-network/xray-graph-nftcdn) | public | MIT | — |
 | Pricing | [xray-graph-pricing](https://github.com/xray-network/xray-graph-pricing) | private (opens) | MIT | — |
@@ -35,7 +34,7 @@ Map of repositories so you don't get confused
 | --- | --- | --- | --- | --- |
 | Home | [pigz-home](https://github.com/xray-network/pigz-home) | private | — | https://pigz.io |
 | App | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | Telegram Bot: @pigz_io_bot |
-| Realm Server (Worker) | [pigz-realm-server](https://github.com/xray-network/pigz-realm-server) | private | — | — |
+| Realm Server (CF Workers) | [pigz-realm-server](https://github.com/xray-network/pigz-realm-server) | private | — | — |
 
 ## Misc
 
