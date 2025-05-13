@@ -1,0 +1,271 @@
+[
+  {
+    "year": "2025",
+    "title": "2025 and Beyond: Growth Phase",
+    "data": [
+      {
+        "status": "in_progress",
+        "title": "Future Areas of Development",
+        "areas": [
+          "XRAY/App",
+          "XRAY/Governance",
+          "XRAY/Assets",
+          "XRAY/Transactions",
+          "XRAY/Stake",
+          "XRAY/Wallet",
+          "XRAY/Explorer",
+          "XRAY/Graph",
+          "XRAY/Vault",
+          "XRAY/AI",
+          "XRAY/List",
+          "XRAY/Swap",
+          "XRAY/Pad",
+          "XRAY/Faucet",
+          "Pigz.io",
+          "Minterr.io",
+          "Mini Apps SDK",
+          "CardanoWeb3js",
+          "XRAY/Foundation",
+          "Market Expansion"
+        ]
+      },
+      {
+        "status": "completed",
+        "title": "Q1 2025",
+        "description": "XRAY/App Functional Release",
+        "areas": ["XRAY/App", "CardanoWeb3js", "Market Expansion"],
+        "items": [
+          {
+            "status": "completed",
+            "type": "Release",
+            "description": "XRAY/Wallet"
+          },
+          {
+            "status": "completed",
+            "type": "Release",
+            "description": "XRAY/Transactions"
+          },
+          {
+            "status": "completed",
+            "type": "Release",
+            "description": "XRAY/Assets"
+          },
+          {
+            "status": "completed",
+            "type": "Release",
+            "description": "XRAY/Stake"
+          },
+          {
+            "status": "completed",
+            "type": "Release",
+            "description": "XRAY/Wiki"
+          },
+          {
+            "status": "completed",
+            "type": "Update",
+            "description": "CardanoWeb3js"
+          },
+          {
+            "status": "completed",
+            "type": "Market Expansion",
+            "description": "Investment Development"
+          }
+        ]
+      },
+      {
+        "status": "in_progress",
+        "title": "Q2 2025",
+        "description": "Future Development & Market Expansion",
+        "areas": ["XRAY/App", "CardanoWeb3js", "XRAY/Vault", "XRAY/Graph", "Pigz.io", "Market Expansion"],
+        "items": [
+          {
+            "status": "in_progress",
+            "type": "Update",
+            "description": "CardanoWeb3js (Refactoring)"
+          },
+          {
+            "status": "in_progress",
+            "type": "Update",
+            "description": "CardanoWeb3js (Documentation)"
+          },
+          {
+            "status": "in_progress",
+            "type": "Update",
+            "description": "XRAY/App (Refactoring)"
+          },
+          {
+            "status": "awaiting",
+            "type": "Update",
+            "description": "XRAY/App (Widgets)"
+          },
+          {
+            "status": "awaiting",
+            "type": "Update",
+            "description": "XRAY/App (Dynamic Dashboard)"
+          },
+          {
+            "status": "in_progress",
+            "type": "Release",
+            "description": "XRAY/App Browser Extension (Chrome, Edge)"
+          },
+          {
+            "status": "awaiting",
+            "type": "Release",
+            "description": "XRAY/Vault (Backend)"
+          },
+          {
+            "status": "awaiting",
+            "type": "Release",
+            "description": "XRAY/Vault (Frontend)"
+          },
+          {
+            "status": "awaiting",
+            "type": "Release",
+            "description": "XRAY/Vault (Documentation)"
+          },
+          {
+            "status": "awaiting",
+            "type": "Update",
+            "description": "XRAY/App (XRAY/Vault Support)"
+          },
+          {
+            "status": "in_progress",
+            "type": "Update",
+            "description": "XRAY/Graph (Refactoring)"
+          },
+          {
+            "status": "awaiting",
+            "type": "Update",
+            "description": "XRAY/Graph (Frontend)"
+          },
+          {
+            "status": "awaiting",
+            "type": "Release",
+            "description": "XRAY/Graph (Documentation)"
+          },
+          {
+            "status": "awaiting",
+            "type": "Update",
+            "description": "XRAY/Graph (Paid Subscriptions)"
+          },
+          {
+            "status": "in_progress",
+            "type": "Release",
+            "description": "Mini Apps SDK (Framework)"
+          },
+          {
+            "status": "awaiting",
+            "type": "Release",
+            "description": "Mini Apps SDK (Documentation)"
+          },
+          {
+            "status": "awaiting",
+            "type": "Release",
+            "description": "XRAY/Mini Apps DevTools"
+          },
+          {
+            "status": "awaiting",
+            "type": "Release",
+            "description": "XRAY/Mini Apps Registrar"
+          },
+          {
+            "status": "awaiting",
+            "type": "Update",
+            "description": "XRAY/App (External Mini Apps Support)"
+          },
+          {
+            "status": "in_progress",
+            "type": "Release",
+            "description": "XRAY/AI"
+          },
+          {
+            "status": "in_progress",
+            "type": "Update",
+            "description": "Pigz.io Telegram Migration"
+          },
+          {
+            "status": "awaiting",
+            "type": "Update",
+            "description": "Pigz.io XRAY/App Version"
+          },
+          {
+            "status": "awaiting",
+            "type": "Update",
+            "description": "Pigz.io Web App Version"
+          },
+          {
+            "status": "awaiting",
+            "type": "Release",
+            "description": "Pigz.io Season 2"
+          },
+          {
+            "status": "awaiting",
+            "type": "Market Expansion",
+            "description": "Mini Apps Contest and Developer Rewards Program"
+          },
+          {
+            "status": "in_progress",
+            "type": "Market Expansion",
+            "description": "Investment Development"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2024",
+    "title": "Through 2024: Establishing Phase",
+    "data": [
+      {
+        "status": "completed",
+        "title": "Establishing the network",
+        "description": "Launching the foundational infrastructure to support the XRAY ecosystem on Cardano"
+      },
+      {
+        "status": "completed",
+        "title": "RayWallet V1/V2",
+        "description": "Delivering secure wallet solutions in two major iterations"
+      },
+      {
+        "status": "completed",
+        "title": "Stage 1: XRAY Token Launch, 0% Fee ISPO",
+        "description": "Introducing the XRAY token through a fee-free Initial Stake Pool Offering"
+      },
+      {
+        "status": "completed",
+        "title": "Stage 1: XRAY Token Staking",
+        "description": "Staking XRAY tokens to earn rewards and support the network"
+      },
+      {
+        "status": "completed",
+        "title": "Stage 2: Wingriders DEX Rewarding",
+        "description": "Rewarding XRAY liquidity providers on Wingriders DEX with XRAY tokens"
+      },
+      {
+        "status": "completed",
+        "title": "CardanoWeb3Js (Project Catalyst Fund 5)",
+        "description": "Developing a versatile TypeScript library for seamless Cardano blockchain integration"
+      },
+      {
+        "status": "completed",
+        "title": "XRAY/Graph APIs",
+        "description": "Launching robust APIs to empower developers with blockchain data and analytics"
+      },
+      {
+        "status": "completed",
+        "title": "Pigz.io The Game",
+        "description": "Creating a fun, interactive gaming experience powered by the XRAY ecosystem"
+      },
+      {
+        "status": "completed",
+        "title": "Telegram Bots Launch",
+        "description": "@xray_app_bot, @xray_vault_bot, @pigz_io_bot"
+      },
+      {
+        "status": "completed",
+        "title": "XRAY/App with Mini Apps",
+        "description": "Introducing extensible Mini Apps to expand XRAY/App’s functionality and adaptability"
+      }
+    ]
+  }
+]
