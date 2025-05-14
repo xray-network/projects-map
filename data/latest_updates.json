@@ -1,15 +1,25 @@
 [
   {
+    "date": "14 MAY 2025",
+    "items": [
+      "Latest Updates section was added to the wiki",
+      "ISPO JSON data moved to the CDN",
+      "XRAY/Graph Stats updated",
+      "Refactored projects-map repository",
+      "Team building, knowledge sharing, and onboarding"
+    ]
+  },
+  {
     "date": "13 MAY 2025",
     "items": [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
-      "Dummy text of the printing and typesetting industry. Lorem Ipsum has been"
+      "XRAY/Graph Output continues refactoring",
+      "Team building, knowledge sharing, and onboarding"
     ]
   },
   {
     "date": "12 MAY 2025",
     "items": [
-      "Dummy text of the printing and typesetting industry. Lorem Ipsum has been"
+      "XRAY/Graph Stats refactored with Hono and Cloudflare Workers"
     ]
   }
 ]
