@@ -13,6 +13,30 @@ Map of repositories so you don't get confused
 | CardanoWeb3js | [cardano-web3-js](https://github.com/xray-network/cardano-web3-js) | public | MIT | https://cardano-web3-js.org |
 
 
+## XRAY Mini Apps (Official)
+
+| Name | Repo | Visibility | License | Related Link |
+| --- | --- | --- | --- | --- |
+| Wallet | inner app | private | — | https://xray.app/wallet |
+| Assets | inner app | private | — | https://xray.app/assets |
+| Transactions | inner app | private | — | https://xray.app/transactions |
+| Stake | inner app | private | — | https://xray.app/stake |
+| Wiki | inner app | private | — | https://xray.app/wiki |
+| Graph | inner app | private | — | — |
+| AI | inner app | private | — | — |
+| Explorer | inner app | private | — | — |
+| Governance | inner app | private | — | — |
+| Swap | inner app | private | — | — |
+| Launchpad | inner app | private | — | — |
+| CardanoList | inner app | private | — | — |
+| Minterr | inner app | private | — | — |
+| Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz |
+| Graph | inner app | private | — | — |
+| Mini App Code | inner app | private | — | — |
+| Mini App Registrar | inner app | private | — | — |
+| Faucet | inner app | private | — | — |
+
+
 ## XRAY/Graph
   
 | Name | Repo | Visibility | License | Related Link |
@@ -35,18 +59,6 @@ Map of repositories so you don't get confused
 | Vault App | [xray-vault-app](https://github.com/xray-network/xray-vault-app) | private (opens) | MIT | — |
 | Backend | [xray-vault-backend ](https://github.com/xray-network/xray-vault-backend) | private (opens) | MIT | — |
 | TS Client | [xray-vault-ts-client](https://github.com/xray-network/xray-vault-ts-client) | private (opens) | MIT | — |
-
-
-## XRAY Mini Apps (Official)
-
-| Name | Repo | Visibility | License | Related Link |
-| --- | --- | --- | --- | --- |
-| Wallet | inner app | private | — | https://xray.app/wallet |
-| Assets | inner app | private | — | https://xray.app/assets |
-| Transactions | inner app | private | — | https://xray.app/transactions |
-| Stake | inner app | private | — | https://xray.app/stake |
-| Wiki | inner app | private | — | https://xray.app/wiki |
-| Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz |
 
 
 ## Pigz.io
