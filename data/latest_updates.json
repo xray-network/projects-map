@@ -1,5 +1,13 @@
 [
   {
+    "date": "15 MAY 2025",
+    "items": [
+      "CardanoWeb3js refactoring (DReps feature)",
+      "XRAY/Graph Output development",
+      "Tem building, knowledge sharing and onboarding",
+    ]
+  },
+  {
     "date": "14 MAY 2025",
     "items": [
       "Latest Updates section was added to the wiki",
