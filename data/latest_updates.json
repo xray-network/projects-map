@@ -1,4 +1,12 @@
 [
+   {
+    "date": "16 MAY 2025",
+    "items": [
+      "CardanoWeb3js refactoring (DReps feature)",
+      "XRAY/Graph Output (Hono refactoring)",
+      "Team building, knowledge sharing, and onboarding"
+    ]
+  },
   {
     "date": "15 MAY 2025",
     "items": [
