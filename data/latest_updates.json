@@ -1,4 +1,13 @@
 [
+    {
+    "date": "19 MAY 2025",
+    "items": [
+      "CardanoWeb3js: DReps (delegate, register, deregister, update), PlutusV3 tx scripts, ProtocolParams new keys (drepDeposit, govActionDeposit), koios-client updated",
+      "Koios Client: v1.0.10 release",
+      "XRAY/Graph Output backend development",
+      "Team building, knowledge sharing, and onboarding"
+    ]
+  },
    {
     "date": "16 MAY 2025",
     "items": [
