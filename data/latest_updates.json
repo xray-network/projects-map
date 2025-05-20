@@ -1,5 +1,14 @@
 [
     {
+    "date": "20 MAY 2025",
+    "items": [
+      "CardanoWeb3js: Utils splitting, rebuilding imports, path aliases",
+      "CardanoWeb3js: Preparing for documentation update (Vitepress deps & version update)",
+      "XRAY/Graph Output backend development",
+      "Team building, knowledge sharing, and onboarding"
+    ]
+  },
+    {
     "date": "19 MAY 2025",
     "items": [
       "CardanoWeb3js: DReps (delegate, register, deregister, update), PlutusV3 tx scripts, ProtocolParams new keys (drepDeposit, govActionDeposit), koios-client updated",
@@ -8,7 +17,19 @@
       "Team building, knowledge sharing, and onboarding"
     ]
   },
-   {
+  {
+    "date": "18 MAY 2025",
+    "items": [
+      "Weekend"
+    ]
+  },
+    {
+    "date": "17 MAY 2025",
+    "items": [
+      "Weekend"
+    ]
+  },
+  {
     "date": "16 MAY 2025",
     "items": [
       "CardanoWeb3js refactoring (DReps feature)",
