@@ -1,11 +1,10 @@
-[
-    
+[   
     {
     "date": "21 MAY 2025",
     "items": [
       "CardanoWeb3js: WASM libs import fixes",
       "XRAY/Graph Output: base release",
-      "Team building, knowledge sharing, and onboarding Utils splitting, rebuilding imports, path aliases",
+      "Team building, knowledge sharing, and onboarding Utils splitting, rebuilding imports, path aliases"
     ]
   },
     {
