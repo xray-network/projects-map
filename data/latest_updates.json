@@ -1,5 +1,14 @@
 [ 
   {
+    "date": "22 MAY 2025",
+    "items": [
+      "CardanoWeb3js: WASM libs import fixes",
+      "Developing a design language for social media",
+      "Exploring community engagement",
+      "Team building, knowledge sharing, and onboarding Utils splitting, rebuilding imports, path aliases"
+    ]
+  },
+  {
     "date": "21 MAY 2025",
     "items": [
       "CardanoWeb3js: WASM libs import fixes",
