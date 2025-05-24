@@ -1,8 +1,21 @@
 [
   {
-    "date": "22 MAY 2025",
+    "date": "25 MAY 2025",
     "items": [
-      "CardanoWeb3js: Versions splitting (browser, nodejs, web, workers)",
+      "Weekend"
+    ]
+  },
+    {
+    "date": "24 MAY 2025",
+    "items": [
+      "Weekend"
+    ]
+  },
+  {
+    "date": "23 MAY 2025",
+    "items": [
+      "CardanoWeb3js: versions splitting (browser, nodejs, web, workers)",
+      "XRAY/Graph Output: stats mergin",
       "Developing a design language for social media",
       "Exploring community engagement",
       "Team building, knowledge sharing, and onboarding"
@@ -12,6 +25,7 @@
     "date": "22 MAY 2025",
     "items": [
       "CardanoWeb3js: WASM libs import fixes",
+      "XRAY/Graph Output: stats mergin",
       "Developing a design language for social media",
       "Exploring community engagement",
       "Team building, knowledge sharing, and onboarding"
