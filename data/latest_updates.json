@@ -1,5 +1,14 @@
 [
-    {
+  {
+    "date": "28 MAY 2025",
+    "items": [
+      "CardanoWeb3js: cardano-wasm-libs now as separate package, serverless instantiate",
+      "XRAY/Graph Output: further refactoring",
+      "Developing a design language for social media",
+      "Exploring community engagement"
+    ]
+  },
+  {
     "date": "27 MAY 2025",
     "items": [
       "CardanoWeb3js: further refactoring",
