@@ -75,6 +75,7 @@ Map of repositories so you don't get confused
 
 | Repo | Name  | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
+| Cardano WASM Libs | [cardano-wasm-libs](https://github.com/xray-network/cardano-wasm-libs) | private | — | https://cardano-web3-js.org |
 | Resources CDN | [cdn](https://github.com/xray-network/cdn) | private | — | https://cdn.xray.app |
 | Captcha (CF Workers) | [cloudflare-workers-captcha](https://github.com/xray-network/cloudflare-workers-captcha) | public | MIT | — |
 | CardanoWeb3js Tutorial | [cw3js-video-tutorial](https://github.com/xray-network/cw3js-video-tutorial) | public | MIT | https://www.youtube.com/watch?v=yA1FpOxEvFE |
