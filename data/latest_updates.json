@@ -1,5 +1,13 @@
 [
   {
+    "date": "31 MAY 2025",
+    "items": [
+      "CardanoWeb3js: refactoring completed, preparing docs",
+      "XRAY/Graph Output: further refactoring",
+      "Exploring options for the creation of a new legal entity"
+    ]
+  },
+  {
     "date": "30 MAY 2025",
     "items": [
       "CardanoWeb3js: further refactoring",
