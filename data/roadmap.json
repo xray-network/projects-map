@@ -89,6 +89,11 @@
             "description": "CardanoWeb3js (Documentation)"
           },
           {
+            "status": "completed",
+            "type": "Market Expansion",
+            "description": "Investment Development"
+          },
+          {
             "status": "in_progress",
             "type": "Update",
             "description": "XRAY/App (Refactoring)"
@@ -117,11 +122,6 @@
             "status": "in_progress",
             "type": "Update",
             "description": "Pigz.io Telegram Migration"
-          },
-          {
-            "status": "in_progress",
-            "type": "Market Expansion",
-            "description": "Investment Development"
           },
           {
             "status": "awaiting",
