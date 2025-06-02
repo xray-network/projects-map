@@ -122,7 +122,7 @@
             "status": "in_progress",
             "type": "Market Expansion",
             "description": "Investment Development"
-          }
+          },
           {
             "status": "awaiting",
             "type": "Update",
@@ -207,7 +207,7 @@
             "status": "awaiting",
             "type": "Market Expansion",
             "description": "Mini Apps Contest and Developer Rewards Program"
-          },
+          }
         ]
       }
     ]
