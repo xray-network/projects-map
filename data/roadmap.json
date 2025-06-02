@@ -79,12 +79,12 @@
         "areas": ["XRAY/App", "CardanoWeb3js", "XRAY/Vault", "XRAY/Graph", "Pigz.io", "Market Expansion"],
         "items": [
           {
-            "status": "in_progress",
+            "status": "completed",
             "type": "Update",
             "description": "CardanoWeb3js (Refactoring)"
           },
           {
-            "status": "in_progress",
+            "status": "completed",
             "type": "Update",
             "description": "CardanoWeb3js (Documentation)"
           },
@@ -94,6 +94,36 @@
             "description": "XRAY/App (Refactoring)"
           },
           {
+            "status": "in_progress",
+            "type": "Release",
+            "description": "XRAY/App Browser Extension (Chrome, Edge)"
+          },
+          {
+            "status": "in_progress",
+            "type": "Update",
+            "description": "XRAY/Graph (Refactoring)"
+          },
+          {
+            "status": "in_progress",
+            "type": "Release",
+            "description": "Mini Apps SDK (Framework)"
+          },
+          {
+            "status": "in_progress",
+            "type": "Release",
+            "description": "XRAY/AI"
+          },
+          {
+            "status": "in_progress",
+            "type": "Update",
+            "description": "Pigz.io Telegram Migration"
+          },
+          {
+            "status": "in_progress",
+            "type": "Market Expansion",
+            "description": "Investment Development"
+          }
+          {
             "status": "awaiting",
             "type": "Update",
             "description": "XRAY/App (Widgets)"
@@ -102,11 +132,6 @@
             "status": "awaiting",
             "type": "Update",
             "description": "XRAY/App (Dynamic Dashboard)"
-          },
-          {
-            "status": "in_progress",
-            "type": "Release",
-            "description": "XRAY/App Browser Extension (Chrome, Edge)"
           },
           {
             "status": "awaiting",
@@ -129,11 +154,6 @@
             "description": "XRAY/App (XRAY/Vault Support)"
           },
           {
-            "status": "in_progress",
-            "type": "Update",
-            "description": "XRAY/Graph (Refactoring)"
-          },
-          {
             "status": "awaiting",
             "type": "Update",
             "description": "XRAY/Graph (Frontend)"
@@ -147,11 +167,6 @@
             "status": "awaiting",
             "type": "Update",
             "description": "XRAY/Graph (Paid Subscriptions)"
-          },
-          {
-            "status": "in_progress",
-            "type": "Release",
-            "description": "Mini Apps SDK (Framework)"
           },
           {
             "status": "awaiting",
@@ -174,16 +189,6 @@
             "description": "XRAY/App (External Mini Apps Support)"
           },
           {
-            "status": "in_progress",
-            "type": "Release",
-            "description": "XRAY/AI"
-          },
-          {
-            "status": "in_progress",
-            "type": "Update",
-            "description": "Pigz.io Telegram Migration"
-          },
-          {
             "status": "awaiting",
             "type": "Update",
             "description": "Pigz.io XRAY/App Version"
@@ -203,11 +208,6 @@
             "type": "Market Expansion",
             "description": "Mini Apps Contest and Developer Rewards Program"
           },
-          {
-            "status": "in_progress",
-            "type": "Market Expansion",
-            "description": "Investment Development"
-          }
         ]
       }
     ]
