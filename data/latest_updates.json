@@ -1,4 +1,20 @@
 [
+    {
+    "date": "4 JUNE 2025",
+    "items": [
+      "XRAY/App: implementation of the new version of CW3JS",
+      "XRAY/Graph Output: further refactoring",
+      "Legal Entity Finalization"
+    ]
+  },
+    {
+    "date": "3 JUNE 2025",
+    "items": [
+      "CardanoWeb3js: v2.3.2 release",
+      "XRAY/Graph Output: further refactoring",
+      "Legal Entity Finalization"
+    ]
+  },
   {
     "date": "31 MAY 2025",
     "items": [
