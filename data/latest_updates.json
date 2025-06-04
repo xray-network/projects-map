@@ -61,18 +61,6 @@
     ]
   },
   {
-    "date": "25 MAY 2025",
-    "items": [
-      "Weekend"
-    ]
-  },
-    {
-    "date": "24 MAY 2025",
-    "items": [
-      "Weekend"
-    ]
-  },
-  {
     "date": "23 MAY 2025",
     "items": [
       "CardanoWeb3js: versions splitting (browser, nodejs, web, workers)",
@@ -116,18 +104,6 @@
       "Koios Client: v1.0.10 release",
       "XRAY/Graph Output backend development",
       "Team building, knowledge sharing, and onboarding"
-    ]
-  },
-  {
-    "date": "18 MAY 2025",
-    "items": [
-      "Weekend"
-    ]
-  },
-    {
-    "date": "17 MAY 2025",
-    "items": [
-      "Weekend"
     ]
   },
   {
