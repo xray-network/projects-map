@@ -1,5 +1,12 @@
 [
-    {
+  {
+    "date": "7 JUNE 2025",
+    "items": [
+      "XRAY/App: further refactoring",
+      "XRAY/Graph Output: further refactoring"
+    ]
+  },
+  {
     "date": "6 JUNE 2025",
     "items": [
       "XRAY/App: Migrating to React Router v7 + Zustand. Finally",
@@ -15,7 +22,7 @@
       "Legal Entity Finalization"
     ]
   },
-    {
+  {
     "date": "4 JUNE 2025",
     "items": [
       "XRAY/App: implementation of the new version of CW3JS",
@@ -23,7 +30,7 @@
       "Legal Entity Finalization"
     ]
   },
-    {
+  {
     "date": "3 JUNE 2025",
     "items": [
       "CardanoWeb3js: v2.3.2 release",
@@ -113,7 +120,7 @@
       "Team building, knowledge sharing, and onboarding"
     ]
   },
-    {
+  {
     "date": "19 MAY 2025",
     "items": [
       "CardanoWeb3js: DReps (delegate, register, deregister, update), PlutusV3 tx scripts, ProtocolParams new keys (drepDeposit, govActionDeposit), koios-client updated",
