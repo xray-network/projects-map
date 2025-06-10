@@ -1,5 +1,13 @@
 [
   {
+    "date": "9 JUNE 2025",
+    "items": [
+      "XRAY/App: Structure, pages, store",
+      "XRAY/Graph Output: further refactoring",
+      "Q3 Roadmap Update"
+    ]
+  },
+  {
     "date": "6 JUNE 2025",
     "items": [
       "XRAY/App: Migrating to React Router v7 + Zustand. Finally",
