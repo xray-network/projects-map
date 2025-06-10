@@ -1,5 +1,12 @@
 [
   {
+    "date": "10 JUNE 2025",
+    "items": [
+      "XRAY/App: Redux to Zustand migration",
+      "XRAY/Graph Output: further refactoring"
+    ]
+  },
+  {
     "date": "9 JUNE 2025",
     "items": [
       "XRAY/App: Structure, pages, store",
