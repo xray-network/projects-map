@@ -1,20 +1,19 @@
 [
-               {
+  {
     "date": "19 JUNE 2025",
     "items": [
       "XRAY/App: Pages structure",
-      "XRAY/App: vite tree shaking fix, happy work effect, liquid glass effect, mobile menu, nprogress, sticky header, antd ui kit improvements",
       "Visual Identity expansion"
     ]
   },
-        {
+  {
     "date": "18 JUNE 2025",
     "items": [
       "XRAY/App: vite tree shaking fix, happy work effect, liquid glass effect, mobile menu, nprogress, sticky header, antd ui kit improvements",
       "Visual Identity expansion"
     ]
   },
-    {
+  {
     "date": "17 JUNE 2025",
     "items": [
       "XRAY/App: Pages structure, common components",
@@ -30,7 +29,7 @@
       "Visual Identity expansion"
     ]
   },
-      {
+  {
     "date": "13 JUNE 2025",
     "items": [
       "XRAY/App: Redux to Zustand migration",
@@ -38,7 +37,7 @@
       "Visual Identity expansion"
     ]
   },
-    {
+  {
     "date": "12 JUNE 2025",
     "items": [
       "XRAY/App: Redux to Zustand migration",
