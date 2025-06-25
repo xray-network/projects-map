@@ -1,10 +1,22 @@
 [
-    {
+  {
+    "date": "24 JUNE 2025",
+    "items": [
+      "Mini Apps SDK: React template",
+      "Public relations: setting up the studio"
+    ]
+  },
+  {
+    "date": "23 JUNE 2025",
+    "items": [
+      "Mini Apps SDK: React template",
+      "Public relations: setting up the studio"
+    ]
+  },
+  {
     "date": "20 JUNE 2025",
     "items": [
-       "XRAY/Graph Output: Multiple OpenAPI schemes ",
-      "XRAY/App: Pages structure",
-      "Visual Identity expansion"
+      "XRAY/Graph Output: Multiple OpenAPI schemas ",
     ]
   },
   {
