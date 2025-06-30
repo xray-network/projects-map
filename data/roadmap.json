@@ -159,6 +159,11 @@
           {
             "status": "completed",
             "type": "Market Expansion",
+            "description": "Legal Entity"
+          },
+          {
+            "status": "completed",
+            "type": "Market Expansion",
             "description": "Cardano Builders DAO Membership"
           }
         ]
