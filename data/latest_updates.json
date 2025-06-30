@@ -1,9 +1,32 @@
 [
   {
+    "date": "30 JUNE 2025",
+    "items": [
+      "XRAY/Graph: Koios Docker image update + OpenAPI client",
+      "XRAY/Graph: Ogmios Docker image update + OpenAPI client",
+      "XRAY/Graph: Kupo Docker image update + OpenAPI client",
+      "XRAY/Graph: Multiple OpenAPI schemas, DNS health check logic"
+    ]
+  },
+  {
+    "date": "27 JUNE 2025",
+    "items": [
+      "Mini Apps SDK: React template",
+      "XRAY/Graph: Multiple OpenAPI schemas, DNS health check logic"
+    ]
+  },
+  {
+    "date": "26 JUNE 2025",
+    "items": [
+      "Mini Apps SDK: React template",
+      "XRAY/Graph: Multiple OpenAPI schemas, DNS health check logic"
+    ]
+  },
+  {
     "date": "25 JUNE 2025",
     "items": [
       "Mini Apps SDK: React template",
-      "Public relations: CD DAO video"
+      "Public relations: CB DAO video"
     ]
   },
   {
