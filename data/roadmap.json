@@ -118,11 +118,6 @@
           },
           {
             "status": "completed",
-            "type": "Market Expansion",
-            "description": "Investment Development"
-          },
-          {
-            "status": "completed",
             "type": "Update",
             "description": "XRAY/App: Refactoring"
           },
@@ -130,6 +125,11 @@
             "status": "completed",
             "type": "Update",
             "description": "XRAY/Graph: Output Refactoring"
+          },
+          {
+            "status": "completed",
+            "type": "Market Expansion",
+            "description": "Investment Development"
           },
           {
             "status": "completed",
