@@ -77,22 +77,47 @@
           {
             "status": "awaiting",
             "type": "Release",
-            "description": "DevTools: Mini App, Documentation"
+            "description": "XRAY/DevTools: Mini App, Documentation"
           },
           {
             "status": "awaiting",
             "type": "Release",
-            "description": "Registrar: Mini App, Documentation"
+            "description": "XRAY/Registrar: Mini App, Documentation"
+          },
+          {
+            "status": "awaiting",
+            "type": "Update",
+            "description": "XRAY/Wallet: UI/UX Improvements"
+          },
+          {
+            "status": "awaiting",
+            "type": "Update",
+            "description": "XRAY/Assets: UI/UX Improvements"
+          },
+          {
+            "status": "awaiting",
+            "type": "Update",
+            "description": "XRAY/Transactions: UI/UX Improvements"
+          },
+          {
+            "status": "awaiting",
+            "type": "Update",
+            "description": "XRAY/Stake: Tokens Staking, UI/UX Improvements"
           },
           {
             "status": "awaiting",
             "type": "Release",
-            "description": "Pigz.io Season 2: Mini App, Telegram App"
+            "description": "Pigz.io (Season 2): Mini App, Telegram App"
           },
           {
             "status": "awaiting",
             "type": "Release",
             "description": "XRAY/AI: Mini App"
+          },
+          {
+            "status": "awaiting",
+            "type": "Release",
+            "description": "XRAY/Governance: Mini App"
           },
           {
             "status": "awaiting",
