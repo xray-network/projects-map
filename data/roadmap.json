@@ -40,6 +40,21 @@
             "description": "XRAY/App: Mini Apps SDK & Integration"
           },
           {
+            "status": "in_progress",
+            "type": "Release",
+            "description": "XRAY/Graph: Mini App, Documentation"
+          },
+          {
+            "status": "in_progress",
+            "type": "Release",
+            "description": "XRAY/Graph: Pricing API"
+          },
+          {
+            "status": "in_progress",
+            "type": "Update",
+            "description": "XRAY/Graph: Paid Subscriptions"
+          },
+          {
             "status": "awaiting",
             "type": "Release",
             "description": "XRAY/App: Browser Extension (Chrome, Edge)"
@@ -107,29 +122,19 @@
             "description": "Investment Development"
           },
           {
-            "status": "in_progress",
+            "status": "completed",
             "type": "Update",
             "description": "XRAY/App: Refactoring"
           },
           {
-            "status": "in_progress",
+            "status": "completed",
             "type": "Update",
             "description": "XRAY/Graph: Output Refactoring"
           },
           {
-            "status": "in_progress",
-            "type": "Release",
-            "description": "XRAY/Graph: Pricing API"
-          },
-          {
-            "status": "in_progress",
-            "type": "Release",
-            "description": "XRAY/Graph: Mini App, Documentation"
-          },
-          {
-            "status": "in_progress",
-            "type": "Update",
-            "description": "XRAY/Graph: Paid Subscriptions"
+            "status": "completed",
+            "type": "Market Expansion",
+            "description": "Cardano Builders DAO Membership"
           }
         ]
       },
