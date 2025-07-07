@@ -1,5 +1,41 @@
 [
   {
+    "date": "7 JULY 2025",
+    "items": [
+      "Mini Apps SDK: Core Development",
+      "XRAY/Graph: Core Development",
+      "New Design Concepts"
+    ]
+  },
+  {
+    "date": "4 JULY 2025",
+    "items": [
+      "Mini Apps SDK: Core Development",
+      "XRAY/Graph: Core Development"
+    ]
+  },
+  {
+    "date": "3 JULY 2025",
+    "items": [
+      "Mini Apps SDK: Core Development",
+      "XRAY/Graph: Core Development"
+    ]
+  },
+  {
+    "date": "2 JULY 2025",
+    "items": [
+      "Mini Apps SDK: Core Development",
+      "XRAY/Graph: Core Development"
+    ]
+  },
+  {
+    "date": "1 JULY 2025",
+    "items": [
+      "Mini Apps SDK: Core Development",
+      "XRAY/Graph: Core Development"
+    ]
+  },
+  {
     "date": "30 JUNE 2025",
     "items": [
       "XRAY/Graph: Koios Docker image update + OpenAPI client",
