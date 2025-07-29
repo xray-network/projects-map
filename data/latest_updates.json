@@ -1,5 +1,72 @@
 [
   {
+    "date": "29 JULY 2025",
+    "items": [
+      "XRAY/Graph: Koios Tiny => OpenAPI client",
+      "XRAY/Graph: NFTCDN => OpenAPI client",
+      "XRAY/Graph: Kupmios => OpenAPI client",
+      "XRAY/Graph: Ogmios => OpenAPI client",
+      "Marketing Development"
+    ]
+  },
+  {
+    "date": "28 JULY 2025",
+    "items": [
+      "XRAY/Graph: Koios Tiny => OpenAPI schema",
+      "XRAY/Graph: NFTCDN => OpenAPI schema",
+      "XRAY/Graph: Kupmios => OpenAPI schema",
+      "XRAY/Graph: Ogmios => OpenAPI schema",
+      "Marketing Development"
+    ]
+  },
+  {
+    "date": "25 JULY 2025",
+    "items": [
+      "XRAY/Graph: Koios Tiny => OpenAPI schema",
+      "XRAY/Graph: NFTCDN => OpenAPI schema",
+      "XRAY/Graph: Kupmios => OpenAPI schema",
+      "XRAY/Graph: Ogmios => OpenAPI schema",
+      "Marketing Development"
+    ]
+  },
+  {
+    "date": "24 JULY 2025",
+    "items": [
+      "XRAY/Graph: Koios Tiny => Traefik integration",
+      "XRAY/Graph: NFTCDN => Traefik integration",
+      "XRAY/Graph: Kupmios => Traefik integration",
+      "XRAY/Graph: Ogmios => Traefik integration",
+      "Marketing Development"
+    ]
+  },
+  {
+    "date": "23 JULY 2025",
+    "items": [
+      "XRAY/Graph: Koios Tiny => Traefik integration",
+      "XRAY/Graph: NFTCDN => Traefik integration",
+      "XRAY/Graph: Kupmios => Traefik integration",
+      "XRAY/Graph: Ogmios => Traefik integration",
+      "Marketing Development"
+    ]
+  },
+  {
+    "date": "22 JULY 2025",
+    "items": [
+      "XRAY/Graph: Koios Tiny => Traefik integration",
+      "XRAY/Graph: NFTCDN => Traefik integration",
+      "XRAY/Graph: Kupmios => Traefik integration",
+      "XRAY/Graph: Ogmios => Traefik integration",
+      "Marketing Development"
+    ]
+  },
+  {
+    "date": "21 JULY 2025",
+    "items": [
+      "XRAY/Graph: Traefik integration (Investigation)",
+      "Marketing Development"
+    ]
+  },
+  {
     "date": "18 JULY 2025",
     "items": [
       "XRAY/Graph Output: Release v2.0.0",
