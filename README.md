@@ -30,7 +30,7 @@ Map of repositories so you don't get confused
 | Launchpad | inner app | private | — | — |
 | CardanoList | inner app | private | — | — |
 | Minterr | inner app | private | — | — |
-| Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz |
+| Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app |
 | Graph | inner app | private | — | — |
 | Mini App Code | inner app | private | — | — |
 | Mini App Registrar | inner app | private | — | — |
@@ -50,6 +50,7 @@ Map of repositories so you don't get confused
 | Koios Client | [cardano-koios-client](https://github.com/xray-network/cardano-koios-client) | public | MIT | — |
 | NFTCDN Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | — | 
 | Pricing Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | — | 
+| Stats Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | MIT | — | 
 
 
 ## XRAY/Vault
@@ -64,11 +65,10 @@ Map of repositories so you don't get confused
 ## Pigz.io
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Web App | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://app.pigz.io |
-| XRAY Mini App | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz |
-| Telegram Mini App | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://t.me/pigz_io_bot |
-| Realm Server | [pigz-realm-server](https://github.com/xray-network/pigz-realm-server) | private | — | — |
 | Home | [pigz-home](https://github.com/xray-network/pigz-home) | private | — | https://pigz.io |
+| App (WebApp, XRAY Mini App, Telegram Mini App)| [pigz-app](https://github.com/xray-network/pigz-app) | private | — | — |
+| Realm Server | [pigz-realm-server](https://github.com/xray-network/pigz-realm-server) | private | — | — |
+| Realm Client | [pigz-realm-client](https://github.com/xray-network/pigz-realm-client) | private | — | — |
 
 
 ## Misc
@@ -86,7 +86,3 @@ Map of repositories so you don't get confused
 | --- | --- | --- | --- | --- |
 | Minterr.io (V1) | [minterr-app](https://github.com/xray-network/minterr-app) | public | MIT | https://minterr.io |
 | RayWallet (V1) | [raywallet-app](https://github.com/xray-network/raywallet-app) | public | MIT | https://app.raywallet.io |
-| Output Load Balancer | [cloudflare-worker-output-load-balancer](https://github.com/xray-network/cloudflare-worker-output-load-balancer) | private | — | — |
-| Network Stats | [cloudflare-worker-network-stats](https://github.com/xray-network/cloudflare-worker-network-stats) | private | — | — |
-| Native Token Images | [cloudflare-worker-metadata-to-cf-images-cdn](https://github.com/xray-network/cloudflare-worker-metadata-to-cf-images-cdn) | public | MIT | — |
-| Turbo TX Send | [cloudflare-worker-turbo-tx-send](https://github.com/xray-network/cloudflare-worker-turbo-tx-send) | public | MIT | — |
