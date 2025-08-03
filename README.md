@@ -6,9 +6,9 @@ Map of repositories so you don't get confused
 
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| XRAY/App | [xray-app](https://github.com/xray-network/xray-app) | private | — | https://xray.app | 
-| XRAY/Graph | see below | public/private | MIT | https://graph.xray.app | 
-| XRAY/Vault | see below | public/private | MIT | https://vault.xray.app | 
+| XRAY/App | [xray-app](https://github.com/xray-network/xray-app) | private | — | https://xray.app, https://t.me/xray_app_bot | 
+| XRAY/Graph | see below | public/private | MIT | https://xray.app/graph | 
+| XRAY/Vault | see below | public/private | MIT | https://vault.xray.app, https://t.me/xray_vault_bot | 
 | XRAY/Foundation | [xray-foundation](https://github.com/xray-network/xray-foundation) | private | MIT | https://xray.foundation | 
 | CardanoWeb3js | [cardano-web3-js](https://github.com/xray-network/cardano-web3-js) | public | MIT | https://cardano-web3-js.org |
 
@@ -22,7 +22,7 @@ Map of repositories so you don't get confused
 | Transactions | inner app | private | — | https://xray.app/transactions |
 | Stake | inner app | private | — | https://xray.app/stake |
 | Wiki | inner app | private | — | https://xray.app/wiki |
-| Graph | inner app | private | — | — |
+| Graph | inner app | private | — | https://xray.app/graph |
 | AI | inner app | private | — | — |
 | Explorer | inner app | private | — | — |
 | Governance | inner app | private | — | — |
@@ -30,7 +30,7 @@ Map of repositories so you don't get confused
 | Launchpad | inner app | private | — | — |
 | CardanoList | inner app | private | — | — |
 | Minterr | inner app | private | — | — |
-| Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app |
+| Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz, https://t.me/pigz_io_bot, https://pigz.io |
 | Graph | inner app | private | — | — |
 | Mini App Code | inner app | private | — | — |
 | Mini App Registrar | inner app | private | — | — |
@@ -41,34 +41,34 @@ Map of repositories so you don't get confused
   
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Output | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | — |
-| Koios Tiny | [xray-graph-koios-tiny](https://github.com/xray-network/xray-graph-koios-tiny) | public | MIT | — |
-| NFTCDN | [xray-graph-nftcdn](https://github.com/xray-network/xray-graph-nftcdn) | public | MIT | — |
+| Output | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | https://graph.xray.app/output/ |
+| Koios Tiny | [xray-graph-koios-tiny](https://github.com/xray-network/xray-graph-koios-tiny) | public | MIT | https://graph.xray.app/output/services/koios/mainnet/api/v1/ |
+| NFTCDN | [xray-graph-nftcdn](https://github.com/xray-network/xray-graph-nftcdn) | public | MIT | https://graph.xray.app/output/services/nftcdn/mainnet/api/v1/ |
 | Pricing | [xray-graph-pricing](https://github.com/xray-network/xray-graph-pricing) | private (opens) | MIT | — |
-| Ogmios | [xray-graph-ogmios](https://github.com/xray-network/xray-graph-ogmios) | public | MIT | — | 
-| Kupo+Ogmios | [xray-graph-kupmios](https://github.com/xray-network/xray-graph-kupmios) | public | MIT | — | 
-| Koios Client | [cardano-koios-client](https://github.com/xray-network/cardano-koios-client) | public | MIT | — |
-| NFTCDN Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | — | 
-| Pricing Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | — | 
-| Stats Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | MIT | — | 
+| Ogmios | [xray-graph-ogmios](https://github.com/xray-network/xray-graph-ogmios) | public | MIT | https://graph.xray.app/output/services/koios/ogmios/api/v1/ | 
+| Kupo+Ogmios | [xray-graph-kupmios](https://github.com/xray-network/xray-graph-kupmios) | public | MIT | https://graph.xray.app/output/services/koios/kupo/api/v1/ | 
+| Koios TS Client | [cardano-koios-client](https://github.com/xray-network/cardano-koios-client) | public | MIT | https://www.npmjs.com/package/cardano-koios-client |
+| NFTCDN TS Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | https://www.npmjs.com/package/cardano-nftcdn-client | 
+| Pricing TS Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | — | 
+| Stats TS Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | MIT | https://www.npmjs.com/package/xray-graph-output-stats-client | 
 
 
 ## XRAY/Vault
   
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Vault App | [xray-vault-app](https://github.com/xray-network/xray-vault-app) | private (opens) | MIT | — |
-| Backend | [xray-vault-backend ](https://github.com/xray-network/xray-vault-backend) | private (opens) | MIT | — |
-| TS Client | [xray-vault-ts-client](https://github.com/xray-network/xray-vault-ts-client) | private (opens) | MIT | — |
+| Vault App | [xray-vault-app](https://github.com/xray-network/xray-vault-app) | private (opens) | MIT | https://vault.xray.app, https://t.me/xray_vault_bot |
+| Vault Backend | [xray-vault-backend ](https://github.com/xray-network/xray-vault-backend) | private (opens) | MIT | — |
+| Vault TS Client | [xray-vault-ts-client](https://github.com/xray-network/xray-vault-ts-client) | private (opens) | MIT | — |
 
 
 ## Pigz.io
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Home | [pigz-home](https://github.com/xray-network/pigz-home) | private | — | https://pigz.io |
-| App (WebApp, XRAY Mini App, Telegram Mini App)| [pigz-app](https://github.com/xray-network/pigz-app) | private | — | — |
-| Realm Server | [pigz-realm-server](https://github.com/xray-network/pigz-realm-server) | private | — | — |
-| Realm Client | [pigz-realm-client](https://github.com/xray-network/pigz-realm-client) | private | — | — |
+| Pigz App | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz, https://t.me/pigz_io_bot, https://pigz.io |
+| Pigz Realm Server | [pigz-realm-server](https://github.com/xray-network/pigz-realm-server) | private | — | — |
+| Pigz Realm Client | [pigz-realm-client](https://github.com/xray-network/pigz-realm-client) | private | — | — |
 
 
 ## Misc
