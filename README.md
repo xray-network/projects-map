@@ -47,7 +47,12 @@ Map of repositories so you don't get confused
 | Pricing | [xray-graph-pricing](https://github.com/xray-network/xray-graph-pricing) | private (opens) | MIT | — |
 | Ogmios | [xray-graph-ogmios](https://github.com/xray-network/xray-graph-ogmios) | public | MIT | https://graph.xray.app/output/services/koios/ogmios/api/v1/ | 
 | Kupo+Ogmios | [xray-graph-kupmios](https://github.com/xray-network/xray-graph-kupmios) | public | MIT | https://graph.xray.app/output/services/koios/kupo/api/v1/ | 
+
+| Name | Repo | Visibility | License | Related Link |
+| --- | --- | --- | --- | --- |
 | Koios TS Client | [cardano-koios-client](https://github.com/xray-network/cardano-koios-client) | public | MIT | https://www.npmjs.com/package/cardano-koios-client |
+| Kupo TS Client | [cardano-koios-client](https://github.com/xray-network/cardano-kupo-client) | public | MIT | https://www.npmjs.com/package/cardano-kupo-client |
+| Ogmios TS Client | [cardano-koios-client](https://github.com/xray-network/cardano-ogmios-client) | public | MIT | https://www.npmjs.com/package/cardano-ogmios-client |
 | NFTCDN TS Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | https://www.npmjs.com/package/cardano-nftcdn-client | 
 | Pricing TS Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | — | 
 | Stats TS Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | MIT | https://www.npmjs.com/package/xray-graph-output-stats-client | 
