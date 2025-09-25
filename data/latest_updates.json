@@ -1,4 +1,12 @@
 [
+  {
+    "date": "25 September 2025",
+    "items": [
+      "AppLoader refactoring",
+      "Tabs icons UI update",
+      "Removed toplevel XrayMini"
+    ]
+  },  
     {
     "date": "24 September 2025",
     "items": [
