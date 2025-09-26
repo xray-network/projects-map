@@ -1,5 +1,13 @@
 [
   {
+  "date": "26 September 2025",
+  "items": [
+    "Layout improvements (mobile)",
+    "Mini App UI Kit",
+    "Mini App Table"
+  ]
+},
+  {
     "date": "25 September 2025",
     "items": [
       "AppLoader refactoring",
