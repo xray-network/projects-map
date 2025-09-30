@@ -1,41 +1,48 @@
 # XRAY/Network GitHub Repositories
 Map of repositories so you don't get confused
 
-
-## Ecosystem
-
+## XRAY Ecosystem
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | XRAY/App | [xray-app](https://github.com/xray-network/xray-app) | private | — | https://xray.app, https://t.me/xray_app_bot | 
-| XRAY/Graph | see below | public/private | MIT | https://xray.app/graph | 
-| XRAY/Vault | see below | public/private | MIT | https://vault.xray.app, https://t.me/xray_vault_bot | 
 | XRAY/Foundation | [xray-foundation](https://github.com/xray-network/xray-foundation) | private | MIT | https://xray.foundation | 
-| CardanoWeb3js | [cardano-web3-js](https://github.com/xray-network/cardano-web3-js) | public | MIT | https://cardano-web3-js.org |
-
+| XRAY/Vault | see below | public | MIT | https://vault.xray.app, https://t.me/xray_vault_bot | 
 
 ## XRAY Mini Apps (Official)
+| Name | Repo | Visibility | License | XRAY/App Link | Host Link |
+| --- | --- | --- | --- | --- | --- |
+| Wallet | [xray-mini-app-wallet](https://github.com/xray-network/xray-mini-app-wallet) | public | MIT | https://xray.app/wallet | https://ma-wallet.xray.app |
+| Assets | [xray-mini-app-assets](https://github.com/xray-network/xray-mini-app-assets) | public | MIT | https://xray.app/assets | https://ma-assets.xray.app |
+| Transactions | [xray-mini-app-transactions](https://github.com/xray-network/xray-mini-app-transactions) | public | MIT | https://xray.app/transactions | https://ma-transactions.xray.app |
+| Stake | [xray-mini-app-stake](https://github.com/xray-network/xray-mini-app-stake) | public | MIT | https://xray.app/stake | https://ma-stake.xray.app |
+| Wiki | [xray-mini-app-wiki](https://github.com/xray-network/xray-mini-app-wiki) | public | MIT | https://xray.app/wiki | https://ma-wiki.xray.app |
+| AI | [xray-mini-app-ai](https://github.com/xray-network/xray-mini-app-ai) | public | MIT | https://xray.app/ai | https://ma-ai.xray.app |
+| Explorer | [xray-mini-app-explorer](https://github.com/xray-network/xray-mini-app-explorer) | public | MIT | https://xray.app/explorer | https://cardano-explorer.org |
+| Governance | [xray-mini-app-governance](https://github.com/xray-network/xray-mini-app-governance) | public | MIT | https://xray.app/governance | https://ma-governance.xray.app |
+| Swap | [xray-mini-app-swap](https://github.com/xray-network/xray-mini-app-swap) | public | MIT | https://xray.app/swap | https://ma-swap.xray.app |
+| Launchpad |  [xray-mini-app-launchpad](https://github.com/xray-network/xray-mini-app-launchpad) | public | MIT | https://xray.app/launchpad | https://ma-launchpad.xray.app |
+| CardanoList |  [xray-mini-app-cardanolist](https://github.com/xray-network/xray-mini-app-cardanolist) | public | MIT | https://xray.app/cardanolist | https://cardano-list.org |
+| Minterr |  [xray-mini-app-minterr](https://github.com/xray-network/xray-mini-app-minterr) | public | MIT | https://xray.app/minterr | https://minterr.org |
+| Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz | https://pigz.io, https://t.me/pigz_io_bot |
+| Graph | [xray-mini-app-graph](https://github.com/xray-network/xray-mini-app-graph) | public | MIT | https://xray.app/graph | https://graph.xray.app |
+| Builder | — | private | — | https://xray.app/builder | — |
 
+
+<br />
+<br />
+
+
+# Related Projects
+
+## Dev Tools
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Wallet | [xray-mini-app-wallet](https://github.com/xray-network/xray-mini-app-wallet) | public | MIT | https://xray.app/wallet, https://ma-wallet.xray.app |
-| Assets | inner app | private | — | https://xray.app/assets |
-| Transactions | inner app | private | — | https://xray.app/transactions |
-| Stake | inner app | private | — | https://xray.app/stake |
-| Wiki | inner app | private | — | https://xray.app/wiki |
-| Graph | inner app | private | — | https://xray.app/graph |
-| AI | inner app | private | — | — |
-| Explorer | inner app | private | — | — |
-| Governance | inner app | private | — | — |
-| Swap | inner app | private | — | — |
-| Launchpad | inner app | private | — | — |
-| CardanoList | inner app | private | — | — |
-| Minterr | inner app | private | — | — |
-| Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz, https://t.me/pigz_io_bot, https://pigz.io |
-| Graph | inner app | private | — | — |
+| CardanoWeb3js | [cardano-web3-js](https://github.com/xray-network/cardano-web3-js) | public | MIT | https://cardano-web3-js.org |
+| Mini App SDK | [mini-app-sdk](https://github.com/xray-network/mini-app-sdk) | public | MIT | https://mini-app-template.xray.app/ |
+| Cardano WASM Libs | [cardano-wasm-libs](https://github.com/xray-network/cardano-wasm-libs) | public | MIT | https://cardano-web3-js.org |
 
 
 ## XRAY/Graph
-  
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Output | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | https://graph.xray.app/output/ |
@@ -56,12 +63,11 @@ Map of repositories so you don't get confused
 
 
 ## XRAY/Vault
-  
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Vault App | [xray-vault-app](https://github.com/xray-network/xray-vault-app) | private (opens) | MIT | https://vault.xray.app, https://t.me/xray_vault_bot |
-| Vault Backend | [xray-vault-backend ](https://github.com/xray-network/xray-vault-backend) | private (opens) | MIT | — |
-| Vault TS Client | [xray-vault-ts-client](https://github.com/xray-network/xray-vault-ts-client) | private (opens) | MIT | — |
+| Vault App | [xray-vault-app](https://github.com/xray-network/xray-vault-app) | public | MIT | https://vault.xray.app, https://t.me/xray_vault_bot |
+| Vault Backend | [xray-vault-backend ](https://github.com/xray-network/xray-vault-backend) | public | MIT | https://vault.xray.app/openapi |
+| Vault TS Client | [xray-vault-client](https://github.com/xray-network/xray-vault-client) | public | MIT | — |
 
 
 ## Pigz.io
@@ -69,21 +75,22 @@ Map of repositories so you don't get confused
 | --- | --- | --- | --- | --- |
 | Home | [pigz-home](https://github.com/xray-network/pigz-home) | private | — | https://pigz.io |
 | Pigz App | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz, https://t.me/pigz_io_bot, https://pigz.io |
-| Pigz Realm Server | [pigz-realm-server](https://github.com/xray-network/pigz-realm-server) | private | — | — |
+| Pigz Realm Server | [pigz-realm-server](https://github.com/xray-network/pigz-realm-server) | private | — | https://realm.pigz.io, https://realm-secret-dev.pigz.io |
 | Pigz Realm Client | [pigz-realm-client](https://github.com/xray-network/pigz-realm-client) | private | — | — |
 
 
 ## Misc
-
 | Repo | Name  | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Cardano WASM Libs | [cardano-wasm-libs](https://github.com/xray-network/cardano-wasm-libs) | public | — | https://cardano-web3-js.org |
 | Resources CDN | [cdn](https://github.com/xray-network/cdn) | private | — | https://cdn.xray.app |
 | Captcha (CF Workers) | [cloudflare-workers-captcha](https://github.com/xray-network/cloudflare-workers-captcha) | public | MIT | — |
 | CardanoWeb3js Tutorial | [cw3js-video-tutorial](https://github.com/xray-network/cw3js-video-tutorial) | public | MIT | https://www.youtube.com/watch?v=yA1FpOxEvFE |
 
+<br />
+<br />
 
-## Deprecated
+
+# Deprecated
 | Repo | Name  | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Minterr.io (V1) | [minterr-app](https://github.com/xray-network/minterr-app) | public | MIT | https://minterr.io |
