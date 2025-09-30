@@ -1,5 +1,15 @@
 [
   {
+  "date": "30 September 2025",
+  "items": [
+    "XRAY ecosystem docs",
+    "Mini App: improved repository visibility",
+    "Mini App Wallet: transaction list improvements and UI tweaks",
+    "XRAY/App: lock modal UX, dashboard refinements",
+    "Mini App UI Kit"
+  ]
+},
+  {
   "date": "29 September 2025",
   "items": [
     "UI improvements",
