@@ -17,7 +17,7 @@ Map of repositories so you don't get confused
 
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Wallet | inner app | private | — | https://xray.app/wallet |
+| Wallet | [xray-mini-app-wallet](https://github.com/xray-network/xray-mini-app-wallet) | public | MIT | https://xray.app/wallet, https://ma-wallet.xray.app |
 | Assets | inner app | private | — | https://xray.app/assets |
 | Transactions | inner app | private | — | https://xray.app/transactions |
 | Stake | inner app | private | — | https://xray.app/stake |
@@ -32,9 +32,6 @@ Map of repositories so you don't get confused
 | Minterr | inner app | private | — | — |
 | Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz, https://t.me/pigz_io_bot, https://pigz.io |
 | Graph | inner app | private | — | — |
-| Mini App Code | inner app | private | — | — |
-| Mini App Registrar | inner app | private | — | — |
-| Faucet | inner app | private | — | — |
 
 
 ## XRAY/Graph
@@ -42,11 +39,11 @@ Map of repositories so you don't get confused
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Output | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | https://graph.xray.app/output/ |
-| Koios Tiny | [xray-graph-koios-tiny](https://github.com/xray-network/xray-graph-koios-tiny) | public | MIT | https://graph.xray.app/output/services/koios/mainnet/api/v1/ |
-| NFTCDN | [xray-graph-nftcdn](https://github.com/xray-network/xray-graph-nftcdn) | public | MIT | https://graph.xray.app/output/services/nftcdn/mainnet/api/v1/ |
-| Pricing | [xray-graph-pricing](https://github.com/xray-network/xray-graph-pricing) | private (opens) | MIT | — |
-| Ogmios | [xray-graph-ogmios](https://github.com/xray-network/xray-graph-ogmios) | public | MIT | https://graph.xray.app/output/services/koios/ogmios/api/v1/ | 
-| Kupo+Ogmios | [xray-graph-kupmios](https://github.com/xray-network/xray-graph-kupmios) | public | MIT | https://graph.xray.app/output/services/koios/kupo/api/v1/ | 
+| Koios Tiny | [xray-graph-koios-tiny](https://github.com/xray-network/xray-graph-koios-tiny) | public | MIT | https://graph.xray.app/output/ |
+| NFTCDN | [xray-graph-nftcdn](https://github.com/xray-network/xray-graph-nftcdn) | public | MIT | https://graph.xray.app/output/ |
+| Pricing | [xray-graph-pricing](https://github.com/xray-network/xray-graph-pricing) | public | MIT | https://graph.xray.app/output/ |
+| Ogmios | [xray-graph-ogmios](https://github.com/xray-network/xray-graph-ogmios) | public | MIT | https://graph.xray.app/output/ | 
+| Kupo+Ogmios | [xray-graph-kupmios](https://github.com/xray-network/xray-graph-kupmios) | public | MIT | https://graph.xray.app/output/ | 
 
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
@@ -54,7 +51,7 @@ Map of repositories so you don't get confused
 | Kupo TS Client | [cardano-koios-client](https://github.com/xray-network/cardano-kupo-client) | public | MIT | https://www.npmjs.com/package/cardano-kupo-client |
 | Ogmios TS Client | [cardano-koios-client](https://github.com/xray-network/cardano-ogmios-client) | public | MIT | https://www.npmjs.com/package/cardano-ogmios-client |
 | NFTCDN TS Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | https://www.npmjs.com/package/cardano-nftcdn-client | 
-| Pricing TS Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | — | 
+| Pricing TS Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | https://www.npmjs.com/package/cardano-pricing-client | 
 | Stats TS Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | MIT | https://www.npmjs.com/package/xray-graph-output-stats-client | 
 
 
