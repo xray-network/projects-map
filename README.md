@@ -23,7 +23,7 @@ Map of repositories so you don't get confused
 | Launchpad |  [xray-mini-app-launchpad](https://github.com/xray-network/xray-mini-app-launchpad) | public | MIT | https://xray.app/launchpad | https://ma-launchpad.xray.app |
 | CardanoList |  [xray-mini-app-cardanolist](https://github.com/xray-network/xray-mini-app-cardanolist) | public | MIT | https://xray.app/cardanolist | https://cardano-list.org |
 | Minterr |  [xray-mini-app-minterr](https://github.com/xray-network/xray-mini-app-minterr) | public | MIT | https://xray.app/minterr | https://minterr.org |
-| Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz | https://pigz.io, https://t.me/pigz_io_bot |
+| Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz | https://app.pigz.io |
 | Graph | [xray-mini-app-graph](https://github.com/xray-network/xray-mini-app-graph) | public | MIT | https://xray.app/graph | https://graph.xray.app |
 | Builder | — | private | — | https://xray.app/builder | — |
 
@@ -74,7 +74,7 @@ Map of repositories so you don't get confused
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Home | [pigz-home](https://github.com/xray-network/pigz-home) | private | — | https://pigz.io |
-| Pigz App | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz, https://t.me/pigz_io_bot, https://pigz.io |
+| Pigz App | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz, https://t.me/pigz_io_bot, https://app.pigz.io |
 | Pigz Realm Server | [pigz-realm-server](https://github.com/xray-network/pigz-realm-server) | private | — | https://realm.pigz.io, https://realm-secret-dev.pigz.io |
 | Pigz Realm Client | [pigz-realm-client](https://github.com/xray-network/pigz-realm-client) | private | — | — |
 
