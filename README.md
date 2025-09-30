@@ -1,14 +1,20 @@
 # XRAY/Network GitHub Repositories
-Map of repositories so you don't get confused
+Map of repositories so you don't get confused.
+
+<br />
 
 ## XRAY Ecosystem
+Overview of the core components that make up the XRAY platform and its infrastructure.
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | XRAY/App | [xray-app](https://github.com/xray-network/xray-app) | private | — | https://xray.app, https://t.me/xray_app_bot | 
 | XRAY/Foundation | [xray-foundation](https://github.com/xray-network/xray-foundation) | private | MIT | https://xray.foundation | 
 | XRAY/Vault | see below | public | MIT | https://vault.xray.app, https://t.me/xray_vault_bot | 
 
+<br />
+
 ## XRAY Mini Apps (Official)
+A curated collection of official XRAY Mini Apps designed for Cardano users.
 | Name | Repo | Visibility | License | XRAY/App Link | Host Link |
 | --- | --- | --- | --- | --- | --- |
 | Wallet | [xray-mini-app-wallet](https://github.com/xray-network/xray-mini-app-wallet) | public | MIT | https://xray.app/wallet | https://ma-wallet.xray.app |
@@ -26,22 +32,22 @@ Map of repositories so you don't get confused
 | Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz | https://app.pigz.io |
 | Graph | [xray-mini-app-graph](https://github.com/xray-network/xray-mini-app-graph) | public | MIT | https://xray.app/graph | https://graph.xray.app |
 
-
 <br />
-<br />
-
 
 # Related Projects
 
 ## Dev Tools
+Developer-focused resources, libraries, and utilities to build, test, and deploy Cardano DApps.
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | CardanoWeb3js | [cardano-web3-js](https://github.com/xray-network/cardano-web3-js) | public | MIT | https://cardano-web3-js.org |
 | Mini App SDK | [mini-app-sdk](https://github.com/xray-network/mini-app-sdk) | public | MIT | https://mini-app-template.xray.app/ |
 | Cardano WASM Libs | [cardano-wasm-libs](https://github.com/xray-network/cardano-wasm-libs) | public | MIT | https://cardano-web3-js.org |
 
+<br />
 
 ## XRAY/Graph
+High-performance APIs for Cardano developers, enabling real-time blockchain data access, advanced analytics, and actionable insights. Offered with free and subscription tiers upon request.
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Output | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | https://graph.xray.app/output/ |
@@ -60,16 +66,20 @@ Map of repositories so you don't get confused
 | Pricing TS Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | https://www.npmjs.com/package/cardano-pricing-client | 
 | Stats TS Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | MIT | https://www.npmjs.com/package/xray-graph-output-stats-client | 
 
+<br />
 
 ## XRAY/Vault
+A secure environment for storing cryptographic keys and signing transactions remotely, ensuring safe and seamless interaction with decentralized services.
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Vault App | [xray-vault-app](https://github.com/xray-network/xray-vault-app) | public | MIT | https://vault.xray.app, https://t.me/xray_vault_bot |
 | Vault Backend | [xray-vault-backend ](https://github.com/xray-network/xray-vault-backend) | public | MIT | https://vault.xray.app/openapi |
 | Vault TS Client | [xray-vault-client](https://github.com/xray-network/xray-vault-client) | public | MIT | — |
 
+<br />
 
 ## Pigz.io
+Pigz.io — a fun Cardano-based clicker game combining entertainment with blockchain integration.
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Home | [pigz-home](https://github.com/xray-network/pigz-home) | private | — | https://pigz.io |
@@ -77,8 +87,10 @@ Map of repositories so you don't get confused
 | Pigz Realm Server | [pigz-realm-server](https://github.com/xray-network/pigz-realm-server) | private | — | https://realm.pigz.io, https://realm-secret-dev.pigz.io |
 | Pigz Realm Client | [pigz-realm-client](https://github.com/xray-network/pigz-realm-client) | private | — | — |
 
+<br />
 
 ## Misc
+Additional repositories and projects that support or complement the XRAY ecosystem.
 | Repo | Name  | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Resources CDN | [cdn](https://github.com/xray-network/cdn) | private | — | https://cdn.xray.app |
@@ -86,10 +98,9 @@ Map of repositories so you don't get confused
 | CardanoWeb3js Tutorial | [cw3js-video-tutorial](https://github.com/xray-network/cw3js-video-tutorial) | public | MIT | https://www.youtube.com/watch?v=yA1FpOxEvFE |
 
 <br />
-<br />
-
 
 # Deprecated
+Outdated repositories that are no longer maintained and are not recommended for use.
 | Repo | Name  | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Minterr.io (V1) | [minterr-app](https://github.com/xray-network/minterr-app) | public | MIT | https://minterr.io |
