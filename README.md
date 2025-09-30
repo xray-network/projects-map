@@ -25,7 +25,6 @@ Map of repositories so you don't get confused
 | Minterr |  [xray-mini-app-minterr](https://github.com/xray-network/xray-mini-app-minterr) | public | MIT | https://xray.app/minterr | https://minterr.org |
 | Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz | https://app.pigz.io |
 | Graph | [xray-mini-app-graph](https://github.com/xray-network/xray-mini-app-graph) | public | MIT | https://xray.app/graph | https://graph.xray.app |
-| Builder | — | private | — | https://xray.app/builder | — |
 
 
 <br />
