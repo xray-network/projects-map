@@ -1,4 +1,14 @@
 [
+{
+  "date": "01 October 2025",
+  "items": [
+    "RemoteType fixes",
+    "AppLoader refactor",
+    "Mini Apps refactoring",
+    "Prep work for Mini App data model",
+    "Mini Aoo UI Kit"
+  ]
+},
   {
   "date": "30 September 2025",
   "items": [
