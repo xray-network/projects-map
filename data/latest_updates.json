@@ -1,4 +1,13 @@
-[
+[{
+  "date": "02 October 2025",
+  "items": [
+    "UI enhancements",
+    "AccountCard component polish",
+    "XRAY/App Catalog minor fixes",
+    "Mini Apps refactoring",
+    "Mini App UI Kit"
+  ]
+},
 {
   "date": "01 October 2025",
   "items": [
