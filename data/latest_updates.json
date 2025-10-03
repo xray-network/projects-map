@@ -1,4 +1,13 @@
-[{
+[
+  {
+  "date": "03 October 2025",
+  "items": [
+    "UI enhancements: Apps grid, apps context menu",
+    "Initial commit: sessions count stats",
+    "Mini App UI Kit"
+  ]
+},
+  {
   "date": "02 October 2025",
   "items": [
     "UI enhancements",
