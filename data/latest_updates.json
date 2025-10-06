@@ -1,5 +1,15 @@
 [
   {
+  "date": "06 October 2025",
+  "items": [
+    "Active apps on account list",
+    "Remove placeholder state",
+    "Components refactoring",
+    "Mega Apps detail UI tweaks",
+    "Mini App UI Kit"
+  ]
+},
+  {
   "date": "03 October 2025",
   "items": [
     "UI enhancements: Apps grid, apps context menu",
