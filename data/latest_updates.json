@@ -1,11 +1,23 @@
 [
   {
+  "date": "07 October 2025",
+  "items": [
+    "XRAY/App Platform Development",
+    "Layout improvements (mobile)",
+    "XRAY/App Account & Catalog UI",
+    "Mini App Template React",
+    "Mini App UX polish",
+    "XRAY/App SDK groundwork",
+    "Mini App UI Kit"
+  ]
+},
+  {
   "date": "06 October 2025",
   "items": [
     "Active apps on account list",
     "Remove placeholder state",
     "Components refactoring",
-    "Mega Apps detail UI tweaks",
+    "Mini App detail UI tweaks",
     "Mini App UI Kit"
   ]
 },
