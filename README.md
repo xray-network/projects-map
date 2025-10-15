@@ -27,7 +27,6 @@ A curated collection of official XRAY Mini Apps designed for Cardano users.
 | Governance | [xray-mini-app-governance](https://github.com/xray-network/xray-mini-app-governance) | public | MIT | https://xray.app/governance | https://ma-governance.xray.app |
 | Swap | [xray-mini-app-swap](https://github.com/xray-network/xray-mini-app-swap) | public | MIT | https://xray.app/swap | https://ma-swap.xray.app |
 | Launchpad |  [xray-mini-app-launchpad](https://github.com/xray-network/xray-mini-app-launchpad) | public | MIT | https://xray.app/launchpad | https://ma-launchpad.xray.app |
-| CardanoList |  [xray-mini-app-cardanolist](https://github.com/xray-network/xray-mini-app-cardanolist) | public | MIT | https://xray.app/cardanolist | https://cardano-list.org |
 | Minterr |  [xray-mini-app-minterr](https://github.com/xray-network/xray-mini-app-minterr) | public | MIT | https://xray.app/minterr | https://minterr.org |
 | Pigz.io | [pigz-app](https://github.com/xray-network/pigz-app) | private | — | https://xray.app/pigz | https://app.pigz.io |
 | Graph | [xray-mini-app-graph](https://github.com/xray-network/xray-mini-app-graph) | public | MIT | https://xray.app/graph | https://graph.xray.app |
