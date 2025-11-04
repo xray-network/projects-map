@@ -59,12 +59,12 @@ High-performance APIs for Cardano developers, enabling real-time blockchain data
 
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Koios TS Client | [cardano-koios-client](https://github.com/xray-network/cardano-koios-client) | public | MIT | https://www.npmjs.com/package/cardano-koios-client |
-| Kupo TS Client | [cardano-koios-client](https://github.com/xray-network/cardano-kupo-client) | public | MIT | https://www.npmjs.com/package/cardano-kupo-client |
-| Ogmios TS Client | [cardano-koios-client](https://github.com/xray-network/cardano-ogmios-client) | public | MIT | https://www.npmjs.com/package/cardano-ogmios-client |
-| NFTCDN TS Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | https://www.npmjs.com/package/cardano-nftcdn-client | 
-| Pricing TS Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | https://www.npmjs.com/package/cardano-pricing-client | 
-| Stats TS Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | MIT | https://www.npmjs.com/package/xray-graph-output-stats-client | 
+| Koios TypeScript Client | [cardano-koios-client](https://github.com/xray-network/cardano-koios-client) | public | MIT | https://www.npmjs.com/package/cardano-koios-client |
+| Kupo TypeScript Client | [cardano-koios-client](https://github.com/xray-network/cardano-kupo-client) | public | MIT | https://www.npmjs.com/package/cardano-kupo-client |
+| Ogmios TypeScript Client | [cardano-koios-client](https://github.com/xray-network/cardano-ogmios-client) | public | MIT | https://www.npmjs.com/package/cardano-ogmios-client |
+| NFTCDN TypeScript Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | https://www.npmjs.com/package/cardano-nftcdn-client | 
+| Pricing TypeScript Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | https://www.npmjs.com/package/cardano-pricing-client | 
+| Stats TypeScript Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | MIT | https://www.npmjs.com/package/xray-graph-output-stats-client | 
 
 <br />
 
@@ -73,7 +73,7 @@ Additional repositories and projects that support or complement the XRAY ecosyst
 | Repo | Name  | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Resources CDN | [cdn](https://github.com/xray-network/cdn) | private | — | https://cdn.xray.app |
-| Captcha (CF Workers) | [cloudflare-workers-captcha](https://github.com/xray-network/cloudflare-workers-captcha) | public | MIT | — |
+| Captcha (Cloudflare Workers) | [cloudflare-workers-captcha](https://github.com/xray-network/cloudflare-workers-captcha) | public | MIT | — |
 | CardanoWeb3js Tutorial | [cw3js-video-tutorial](https://github.com/xray-network/cw3js-video-tutorial) | public | MIT | https://www.youtube.com/watch?v=yA1FpOxEvFE |
 
 <br />
