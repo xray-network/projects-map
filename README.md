@@ -10,7 +10,6 @@ Overview of the core components that make up the XRAY platform and its infrastru
 | XRAY/App | [xray-app](https://github.com/xray-network/xray-app) | private | — | https://xray.app, https://t.me/xray_app_bot | 
 | XRAY/Foundation | [xray-foundation](https://github.com/xray-network/xray-foundation) | private | MIT | https://xray.foundation | 
 | XRAY/Vault | [xray-vault](https://github.com/xray-network/xray-vault) | public | MIT | https://vault.xray.app, https://t.me/xray_vault_bot | 
-| Pigz.io The Game | [pigz](https://github.com/xray-network/xray-vault) | private | — | https://pigz.io | 
 
 <br />
 
@@ -65,6 +64,14 @@ High-performance APIs for Cardano developers, enabling real-time blockchain data
 | NFTCDN TypeScript Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | https://www.npmjs.com/package/cardano-nftcdn-client | 
 | Pricing TypeScript Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | https://www.npmjs.com/package/cardano-pricing-client | 
 | Stats TypeScript Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | MIT | https://www.npmjs.com/package/xray-graph-output-stats-client | 
+
+<br />
+
+## Pigz.io
+Pigz.io — a fun Cardano-based clicker game combining entertainment with blockchain integration.
+| Name | Repo | Visibility | License | Related Link |
+| --- | --- | --- | --- | --- |
+| Pigz.io The Game | [pigz](https://github.com/xray-network/xray-vault) | private | — | https://pigz.io | 
 
 <br />
 
