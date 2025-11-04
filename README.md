@@ -19,7 +19,8 @@ Developer-focused resources, libraries, and utilities to build, test, and deploy
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | CardanoWeb3js | [cardano-web3-js](https://github.com/xray-network/cardano-web3-js) | public | MIT | https://cardano-web3-js.org |
-| Mini App SDK | [mini-app-sdk](https://github.com/xray-network/mini-app-sdk) | public | MIT | https://mini-app-template.xray.app |
+| Mini App SDK | [mini-app-sdk](https://github.com/xray-network/mini-app-sdk) | public | MIT | — |
+| Mini App Template React | [xray-mini-app-template-react](https://github.com/xray-network/mini-app-template-react) | public | MIT | https://mini-app-template-react.xray.app |
 | Cardano WASM Libs | [cardano-wasm-libs](https://github.com/xray-network/cardano-wasm-libs) | public | MIT | https://cardano-web3-js.org |
 
 <br />
@@ -28,19 +29,20 @@ Developer-focused resources, libraries, and utilities to build, test, and deploy
 A curated collection of official XRAY Mini Apps designed for Cardano users.
 | Name | Repo | Visibility | License | XRAY/App Link | Host Link |
 | --- | --- | --- | --- | --- | --- |
-| Wallet | [xray-mini-app-wallet](https://github.com/xray-network/xray-mini-app-wallet) | public | MIT | https://xray.app/wallet | https://ma-wallet.xray.app |
-| Assets | [xray-mini-app-assets](https://github.com/xray-network/xray-mini-app-assets) | public | MIT | https://xray.app/assets | https://ma-assets.xray.app |
-| Transactions | [xray-mini-app-transactions](https://github.com/xray-network/xray-mini-app-transactions) | public | MIT | https://xray.app/transactions | https://ma-transactions.xray.app |
-| Stake | [xray-mini-app-stake](https://github.com/xray-network/xray-mini-app-stake) | public | MIT | https://xray.app/stake | https://ma-stake.xray.app |
-| Wiki | [xray-mini-app-wiki](https://github.com/xray-network/xray-mini-app-wiki) | public | MIT | https://xray.app/wiki | https://ma-wiki.xray.app |
-| AI | [xray-mini-app-ai](https://github.com/xray-network/xray-mini-app-ai) | public | MIT | https://xray.app/ai | https://ma-ai.xray.app |
-| Explorer | [xray-mini-app-explorer](https://github.com/xray-network/xray-mini-app-explorer) | public | MIT | https://xray.app/explorer | https://cardano-explorer.org |
-| Governance | [xray-mini-app-governance](https://github.com/xray-network/xray-mini-app-governance) | public | MIT | https://xray.app/governance | https://ma-governance.xray.app |
-| Swap | [xray-mini-app-swap](https://github.com/xray-network/xray-mini-app-swap) | public | MIT | https://xray.app/swap | https://ma-swap.xray.app |
+| Wallet | [xray-mini-app-wallet](https://github.com/xray-network/xray-mini-app-wallet) | public | MIT | https://xray.app/app/wallet | https://ma-wallet.xray.app |
+| Assets | [xray-mini-app-assets](https://github.com/xray-network/xray-mini-app-assets) | public | MIT | https://xray.app/app/assets | https://ma-assets.xray.app |
+| Transactions | [xray-mini-app-transactions](https://github.com/xray-network/xray-mini-app-transactions) | public | MIT | https://xray.app/app/transactions | https://ma-transactions.xray.app |
+| Stake | [xray-mini-app-stake](https://github.com/xray-network/xray-mini-app-stake) | public | MIT | https://xray.app/app/stake | https://ma-stake.xray.app |
+| Wiki | [xray-mini-app-wiki](https://github.com/xray-network/xray-mini-app-wiki) | public | MIT | https://xray.app/app/wiki | https://ma-wiki.xray.app |
+| AI | [xray-mini-app-ai](https://github.com/xray-network/xray-mini-app-ai) | public | MIT | https://xray.app/app/ai | https://ma-ai.xray.app |
+| Explorer | [xray-mini-app-explorer](https://github.com/xray-network/xray-mini-app-explorer) | public | MIT | https://xray.app/app/explorer | https://cardano-explorer.org |
+| Governance | [xray-mini-app-governance](https://github.com/xray-network/xray-mini-app-governance) | public | MIT | https://xray.app/app/governance | https://ma-governance.xray.app |
+| Swap | [xray-mini-app-swap](https://github.com/xray-network/xray-mini-app-swap) | public | MIT | https://xray.app/app/swap | https://ma-swap.xray.app |
 | Launchpad |  [xray-mini-app-launchpad](https://github.com/xray-network/xray-mini-app-launchpad) | public | MIT | https://xray.app/launchpad | https://ma-launchpad.xray.app |
-| Minterr |  [xray-mini-app-minterr](https://github.com/xray-network/xray-mini-app-minterr) | public | MIT | https://xray.app/minterr | https://minterr.org |
-| Pigz.io | [pigz](https://github.com/xray-network/xray-vault) | private | — | https://pigz.io | https://app.pigz.io |
-| Graph | [xray-mini-app-graph](https://github.com/xray-network/xray-mini-app-graph) | public | MIT | https://xray.app/graph | https://graph.xray.app |
+| Minterr |  [xray-mini-app-minterr](https://github.com/xray-network/xray-mini-app-minterr) | public | MIT | https://xray.app/app/minterr | https://minterr.org |
+| Pigz.io | [pigz](https://github.com/xray-network/xray-vault) | private | — | https://xray.app/app/pigz | https://app.pigz.io |
+| Graph | [xray-mini-app-graph](https://github.com/xray-network/xray-mini-app-graph) | public | MIT | https://xray.app/app/graph | https://graph.xray.app |
+| Buidler | [xray-mini-app-buidler](https://github.com/xray-network/xray-mini-app-builder) | public | MIT | https://xray.app/app/builder | https://ma-builder.xray.app |
 
 <br />
 
