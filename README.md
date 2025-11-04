@@ -10,7 +10,7 @@ Overview of the core components that make up the XRAY platform and its infrastru
 | XRAY/App | [xray-app](https://github.com/xray-network/xray-app) | private | — | https://xray.app, https://t.me/xray_app_bot | 
 | XRAY/Foundation | [xray-foundation](https://github.com/xray-network/xray-foundation) | private | MIT | https://xray.foundation | 
 | XRAY/Vault | [xray-vault](https://github.com/xray-network/xray-vault) | public | MIT | https://vault.xray.app, https://t.me/xray_vault_bot | 
-| PIGZ.IO The Game | [pigz](https://github.com/xray-network/xray-vault) | private | — | https://pigz.io | 
+| Pigz.io The Game | [pigz](https://github.com/xray-network/xray-vault) | private | — | https://pigz.io | 
 
 <br />
 
