@@ -18,8 +18,8 @@ Developer-focused resources, libraries, and utilities to build, test, and deploy
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | CardanoWeb3js | [cardano-web3-js](https://github.com/xray-network/cardano-web3-js) | public | MIT | https://cardano-web3-js.org |
-| Mini App SDK | [mini-app-sdk](https://github.com/xray-network/mini-app-sdk) | public | MIT | — |
-| Mini App Template React | [xray-mini-app-template-react](https://github.com/xray-network/mini-app-template-react) | public | MIT | https://mini-app-template-react.xray.app |
+| Mini App SDK | [xray-mini-app-sdk](https://github.com/xray-network/xray-mini-app-sdk) | public | MIT | — |
+| Mini App Template React | [xray-mini-app-template-react](https://github.com/xray-network/xray-mini-app-template-react) | public | MIT | https://mini-app-template-react.xray.app |
 | Cardano WASM Libs | [cardano-wasm-libs](https://github.com/xray-network/cardano-wasm-libs) | public | MIT | https://cardano-web3-js.org |
 
 <br />
