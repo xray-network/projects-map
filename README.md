@@ -41,29 +41,36 @@ A curated collection of official XRAY Mini Apps designed for Cardano users.
 | Minterr |  [xray-mini-app-minterr](https://github.com/xray-network/xray-mini-app-minterr) | public | MIT | https://xray.app/app/minterr | https://minterr.org |
 | Graph | [xray-mini-app-graph](https://github.com/xray-network/xray-mini-app-graph) | public | MIT | https://xray.app/app/graph | https://ma-graph.xray.app |
 | Builder | [xray-mini-app-builder](https://github.com/xray-network/xray-mini-app-builder) | public | MIT | https://xray.app/app/builder | https://ma-builder.xray.app |
-| Pigz.io | [pigz](https://github.com/xray-network/xray-vault) | private | — | https://xray.app/app/pigz | https://app.pigz.io |
+| Pigz.io | [pigz](https://github.com/xray-network/pigz) | private | — | https://xray.app/app/pigz | https://app.pigz.io |
 
 <br />
 
 ## XRAY/Graph
 High-performance APIs for Cardano developers, enabling real-time blockchain data access, advanced analytics, and actionable insights. Offered with free and subscription tiers upon request.
+
+Processing Backend:
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Output | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | https://graph.xray.app/output/ |
+
+Indexers:
+| Name | Repo | Visibility | License | Related Link |
+| --- | --- | --- | --- | --- |
 | Koios Tiny | [xray-graph-koios-tiny](https://github.com/xray-network/xray-graph-koios-tiny) | public | MIT | https://graph.xray.app/output/ |
 | NFTCDN | [xray-graph-nftcdn](https://github.com/xray-network/xray-graph-nftcdn) | public | MIT | https://graph.xray.app/output/ |
 | Pricing | [xray-graph-pricing](https://github.com/xray-network/xray-graph-pricing) | public | MIT | https://graph.xray.app/output/ |
 | Ogmios | [xray-graph-ogmios](https://github.com/xray-network/xray-graph-ogmios) | public | MIT | https://graph.xray.app/output/ | 
 | Kupo+Ogmios | [xray-graph-kupmios](https://github.com/xray-network/xray-graph-kupmios) | public | MIT | https://graph.xray.app/output/ | 
 
+TypeScript Clients
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Koios TypeScript Client | [cardano-koios-client](https://github.com/xray-network/cardano-koios-client) | public | MIT | https://www.npmjs.com/package/cardano-koios-client |
-| Kupo TypeScript Client | [cardano-koios-client](https://github.com/xray-network/cardano-kupo-client) | public | MIT | https://www.npmjs.com/package/cardano-kupo-client |
-| Ogmios TypeScript Client | [cardano-koios-client](https://github.com/xray-network/cardano-ogmios-client) | public | MIT | https://www.npmjs.com/package/cardano-ogmios-client |
-| NFTCDN TypeScript Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | https://www.npmjs.com/package/cardano-nftcdn-client | 
-| Pricing TypeScript Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | https://www.npmjs.com/package/cardano-pricing-client | 
-| Stats TypeScript Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | MIT | https://www.npmjs.com/package/xray-graph-output-stats-client | 
+| Koios Client | [cardano-koios-client](https://github.com/xray-network/cardano-koios-client) | public | MIT | https://www.npmjs.com/package/cardano-koios-client |
+| Kupo Client | [cardano-koios-client](https://github.com/xray-network/cardano-kupo-client) | public | MIT | https://www.npmjs.com/package/cardano-kupo-client |
+| Ogmios Client | [cardano-koios-client](https://github.com/xray-network/cardano-ogmios-client) | public | MIT | https://www.npmjs.com/package/cardano-ogmios-client |
+| NFTCDN Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | https://www.npmjs.com/package/cardano-nftcdn-client | 
+| Pricing Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | https://www.npmjs.com/package/cardano-pricing-client | 
+| Stats Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | MIT | https://www.npmjs.com/package/xray-graph-output-stats-client | 
 
 <br />
 
@@ -71,7 +78,7 @@ High-performance APIs for Cardano developers, enabling real-time blockchain data
 Pigz.io — a fun Cardano-based clicker game combining entertainment with blockchain integration.
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Pigz.io The Game | [pigz](https://github.com/xray-network/xray-vault) | private | — | https://pigz.io | 
+| Pigz.io The Game | [pigz](https://github.com/xray-network/pigz) | private | — | https://pigz.io | 
 
 <br />
 
