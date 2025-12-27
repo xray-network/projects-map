@@ -39,8 +39,8 @@ A curated collection of official XRAY Mini Apps designed for Cardano users.
 | Swap | [xray-mini-app-swap](https://github.com/xray-network/xray-mini-app-swap) | public | MIT | https://xray.app/app/swap | https://swap.xray.app |
 | Launchpad |  [xray-mini-app-launchpad](https://github.com/xray-network/xray-mini-app-launchpad) | public | MIT | https://xray.app/launchpad | https://launchpad.xray.app |
 | Minterr |  [xray-mini-app-minterr](https://github.com/xray-network/xray-mini-app-minterr) | public | MIT | https://xray.app/app/minterr | https://minterr.org |
-| Graph | [xray-mini-app-graph](https://github.com/xray-network/xray-mini-app-graph) | public | MIT | https://xray.app/app/graph | https://graph.xray.app |
-| Builder | [xray-mini-app-builder](https://github.com/xray-network/xray-mini-app-builder) | public | MIT | https://xray.app/app/builder | https://builder.xray.app |
+| Graph | [xray-mini-app-graph](https://github.com/xray-network/xray-mini-app-graph) | private | — | https://xray.app/app/graph | https://graph.xray.app |
+| Builder | [xray-mini-app-builder](https://github.com/xray-network/xray-mini-app-builder) | private | — | https://xray.app/app/builder | https://builder.xray.app |
 | Pigz.io | [pigz](https://github.com/xray-network/pigz) | private | — | https://xray.app/app/pigz | https://app.pigz.io |
 
 <br />
