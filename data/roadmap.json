@@ -1,169 +1,98 @@
 [
+    {
+    "year": "2026",
+    "title": "2026: The Platform",
+    "data": [
+      {
+        "status": "completed",
+        "title": "Q1 2025",
+        "description": "XRAY/App Platform Refactoring & Enhancements",
+        "items": [
+          {
+            "status": "in_progress",
+            "description": "XRAY/App: Enhancements"
+          },
+          {
+            "status": "in_progress",
+            "description": "CardanoWeb3js: Enhancements"
+          },
+          {
+            "status": "in_progress",
+            "description": "XRAY/Builder: Catalog Release"
+          },
+          {
+            "status": "in_progress",
+            "description": "XRAY/Graph: Paid Subscriptions"
+          },
+          {
+            "status": "in_progress",
+            "description": "XRAY/Explorer: Release"
+          }
+        ]
+      }
+    ]
+  },
   {
     "year": "2025",
     "title": "2025 and Beyond: Growth Phase",
     "data": [
       {
-        "status": "in_progress",
-        "title": "Future Areas of Development",
-        "areas": [
-          "XRAY/App",
-          "XRAY/Governance",
-          "XRAY/Assets",
-          "XRAY/Transactions",
-          "XRAY/Stake",
-          "XRAY/Wallet",
-          "XRAY/Explorer",
-          "XRAY/Graph",
-          "XRAY/Vault",
-          "XRAY/AI",
-          "XRAY/List",
-          "XRAY/Swap",
-          "XRAY/Pad",
-          "XRAY/Faucet",
-          "Pigz.io",
-          "Minterr.io",
-          "Mini Apps SDK",
-          "CardanoWeb3js",
-          "XRAY/Foundation",
-          "Market Expansion"
-        ]
-      },
-      {
-        "status": "in_progress",
-        "title": "Q3 2025",
+        "status": "completed",
+        "title": "Q4 2025",
         "description": "XRAY/Network Ecosystem Services",
         "items": [
           {
-            "status": "in_progress",
-            "type": "Release",
-            "description": "XRAY/App: Mini Apps SDK & Integration"
+            "status": "completed",
+            "description": "XRAY/App: Mini Apps SDK Release"
           },
           {
-            "status": "in_progress",
-            "type": "Release",
-            "description": "XRAY/Graph: Mini App, Documentation"
-          },
-          {
-            "status": "in_progress",
-            "type": "Release",
-            "description": "XRAY/Graph: Pricing API"
-          },
-          {
-            "status": "in_progress",
-            "type": "Update",
-            "description": "XRAY/Graph: Paid Subscriptions"
-          },
-          {
-            "status": "awaiting",
-            "type": "Release",
-            "description": "XRAY/App: Browser Extension (Chrome, Edge)"
-          },
-          {
-            "status": "awaiting",
-            "type": "Update",
-            "description": "XRAY/App: Dynamic Dashboard, Widgets"
-          },
-          {
-            "status": "awaiting",
-            "type": "Release",
-            "description": "XRAY/Vault: Backend, Frontend, Documentation"
-          },
-          {
-            "status": "awaiting",
-            "type": "Update",
-            "description": "XRAY/App: XRAY/Vault Integration"
-          },
-          {
-            "status": "awaiting",
-            "type": "Release",
-            "description": "XRAY/DevTools: Mini App, Documentation"
-          },
-          {
-            "status": "awaiting",
-            "type": "Release",
-            "description": "XRAY/Registrar: Mini App, Documentation"
-          },
-          {
-            "status": "awaiting",
-            "type": "Update",
-            "description": "XRAY/Wallet: UI/UX Improvements"
-          },
-          {
-            "status": "awaiting",
-            "type": "Update",
-            "description": "XRAY/Assets: UI/UX Improvements"
-          },
-          {
-            "status": "awaiting",
-            "type": "Update",
-            "description": "XRAY/Transactions: UI/UX Improvements"
-          },
-          {
-            "status": "awaiting",
-            "type": "Update",
-            "description": "XRAY/Stake: Tokens Staking, UI/UX Improvements"
-          },
-          {
-            "status": "awaiting",
-            "type": "Release",
-            "description": "Pigz.io (Season 2): Mini App, Telegram App"
-          },
-          {
-            "status": "awaiting",
-            "type": "Release",
-            "description": "XRAY/AI: Mini App"
-          },
-          {
-            "status": "awaiting",
-            "type": "Release",
-            "description": "XRAY/Governance: Mini App"
-          },
-          {
-            "status": "awaiting",
-            "type": "Market Expansion",
-            "description": "Mini Apps Contest and Developer Rewards Program"
+            "status": "completed",
+            "description": "XRAY/App: Platform Release"
           }
         ]
       },
       {
-        "status": "in_progress",
+        "status": "completed",
+        "title": "Q3 2025",
+        "description": "Platform SDK",
+        "items": [
+          {
+            "status": "completed",
+            "description": "XRAY/App: Mini Apps SDK Development"
+          },
+          {
+            "status": "completed",
+            "description": "XRAY/App: Platform Development"
+          }
+        ]
+      },
+      {
+        "status": "completed",
         "title": "Q2 2025",
         "description": "Future Development & Market Expansion",
         "items": [
           {
             "status": "completed",
-            "type": "Update",
             "description": "CardanoWeb3js: Refactoring, Governance Features"
           },
           {
             "status": "completed",
-            "type": "Update",
             "description": "CardanoWeb3js: Documentation"
           },
           {
             "status": "completed",
-            "type": "Update",
             "description": "XRAY/App: Refactoring"
           },
           {
             "status": "completed",
-            "type": "Update",
             "description": "XRAY/Graph: Output Refactoring"
           },
           {
             "status": "completed",
-            "type": "Market Expansion",
-            "description": "Investment Development"
-          },
-          {
-            "status": "completed",
-            "type": "Market Expansion",
             "description": "Legal Entity"
           },
           {
             "status": "completed",
-            "type": "Market Expansion",
             "description": "Cardano Builders DAO Membership"
           }
         ]
@@ -175,38 +104,27 @@
         "items": [
           {
             "status": "completed",
-            "type": "Release",
             "description": "XRAY/Wallet: Mini App"
           },
           {
             "status": "completed",
-            "type": "Release",
             "description": "XRAY/Transactions: Mini App"
           },
           {
             "status": "completed",
-            "type": "Release",
             "description": "XRAY/Assets: Mini App"
           },
           {
             "status": "completed",
-            "type": "Release",
             "description": "XRAY/Stake: Mini App"
           },
           {
             "status": "completed",
-            "type": "Release",
             "description": "XRAY/Wiki: Mini App"
           },
           {
             "status": "completed",
-            "type": "Update",
             "description": "CardanoWeb3js: Refactoring"
-          },
-          {
-            "status": "completed",
-            "type": "Market Expansion",
-            "description": "Investment Development"
           }
         ]
       }
@@ -264,7 +182,7 @@
       {
         "status": "completed",
         "title": "XRAY/App with Mini Apps",
-        "description": "Introducing extensible Mini Apps to expand XRAY/App’s functionality and adaptability"
+        "description": "Introducing extensible Mini Apps to expand XRAY/App's functionality and adaptability"
       }
     ]
   }
