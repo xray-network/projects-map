@@ -10,11 +10,11 @@
         "items": [
           {
             "status": "in_progress",
-            "description": "XRAY/App: Enhancements"
+            "description": "XRAY/App: Bitcoin Support"
           },
           {
             "status": "in_progress",
-            "description": "CardanoWeb3js: Enhancements"
+            "description": "XRAY/App: Midnight Support"
           },
           {
             "status": "in_progress",
@@ -23,6 +23,22 @@
           {
             "status": "in_progress",
             "description": "XRAY/Graph: Paid Subscriptions"
+          },
+          {
+            "status": "in_progress",
+            "description": "XRAY/Graph: Bitcoin Indexers"
+          },
+          {
+            "status": "in_progress",
+            "description": "XRAY/Graph: Midnight Indexers"
+          },
+          {
+            "status": "in_progress",
+            "description": "CardanoWeb3js: New Features"
+          },
+          {
+            "status": "in_progress",
+            "description": "Mini Apps SDK: New Features"
           },
           {
             "status": "in_progress",
