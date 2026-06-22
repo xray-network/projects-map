@@ -52,25 +52,34 @@ Processing Backend:
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Output | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | https://graph.xray.app/output/ |
+| Output Stats TS Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | — | https://graph.xray.app/output/ |
 
-Indexers:
-| Name | Repo | Visibility | License | Related Link |
-| --- | --- | --- | --- | --- |
-| Koios Tiny | [xray-graph-koios-tiny](https://github.com/xray-network/xray-graph-koios-tiny) | public | MIT | https://graph.xray.app/output/ |
-| NFTCDN | [xray-graph-nftcdn](https://github.com/xray-network/xray-graph-nftcdn) | public | MIT | https://graph.xray.app/output/ |
-| Pricing | [xray-graph-pricing](https://github.com/xray-network/xray-graph-pricing) | public | MIT | https://graph.xray.app/output/ |
-| Ogmios | [xray-graph-ogmios](https://github.com/xray-network/xray-graph-ogmios) | public | MIT | https://graph.xray.app/output/ | 
-| Kupo+Ogmios | [xray-graph-kupmios](https://github.com/xray-network/xray-graph-kupmios) | public | MIT | https://graph.xray.app/output/ | 
+<hr />
 
-TypeScript Clients
-| Name | Repo | Visibility | License | Related Link |
-| --- | --- | --- | --- | --- |
-| Koios Client | [cardano-koios-client](https://github.com/xray-network/cardano-koios-client) | public | MIT | https://www.npmjs.com/package/cardano-koios-client |
-| Kupo Client | [cardano-koios-client](https://github.com/xray-network/cardano-kupo-client) | public | MIT | https://www.npmjs.com/package/cardano-kupo-client |
-| Ogmios Client | [cardano-koios-client](https://github.com/xray-network/cardano-ogmios-client) | public | MIT | https://www.npmjs.com/package/cardano-ogmios-client |
-| NFTCDN Client | [cardano-nftcdn-client](https://github.com/xray-network/cardano-nftcdn-client) | public | MIT | https://www.npmjs.com/package/cardano-nftcdn-client | 
-| Pricing Client | [cardano-pricing-client](https://github.com/xray-network/cardano-pricing-client) | public | MIT | https://www.npmjs.com/package/cardano-pricing-client | 
-| Stats Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | MIT | https://www.npmjs.com/package/xray-graph-output-stats-client | 
+Services (Public, MIT License): https://github.com/xray-network/xray-graph-services
+
+| Name | Description |
+| --- | --- |
+| Cardano Node | Cardano Node |
+| Cardano DB Sync | Cardano Node indexer |
+| Postgres | Postgres with TimescaleDB and PG_CARDANO modules|
+| Kubo | IPFS Node |
+| Traefik | Reverse proxy |
+| Koios Tiny | Dockerized Koios instance |
+| Koios TS Client | Koios Tiny Typescript client https://www.npmjs.com/package/cardano-koios-client |
+| Ogmios | Bridge interface for cardano-node | 
+| Ogmios TS Client | Ogmios Typescript client https://www.npmjs.com/package/cardano-ogmios-client |
+| Kupo | Configurable chain-index for the Cardano blockchain | 
+| Kupo TS Client | Kupo Typescript client https://www.npmjs.com/package/cardano-kupo-client |
+
+Services (Private, Private License): https://github.com/xray-network/xray-graph-services-private
+
+| Name | Description |
+| --- | --- |
+| NFTCDN Cardano | Image and Metadata server with resize capabilities|
+| NFTCDN Cardano TS Client | NFTCDN Cardano Typescript client https://www.npmjs.com/package/cardano-nftcdn-client | 
+| Pricing Cardano | Cardano price and volumes tracking instance |
+| Pricing Cardano TS Client | Pricing Cardano Typescript client https://www.npmjs.com/package/cardano-pricing-client | 
 
 <br />
 
@@ -89,12 +98,3 @@ Additional repositories and projects that support or complement the XRAY ecosyst
 | Resources CDN | [cdn](https://github.com/xray-network/cdn) | private | — | https://cdn.xray.app |
 | Captcha (Cloudflare Workers) | [cloudflare-workers-captcha](https://github.com/xray-network/cloudflare-workers-captcha) | public | MIT | — |
 | CardanoWeb3js Tutorial | [cw3js-video-tutorial](https://github.com/xray-network/cw3js-video-tutorial) | public | MIT | https://www.youtube.com/watch?v=yA1FpOxEvFE |
-
-<br />
-
-# Deprecated
-Outdated repositories that are no longer maintained and are not recommended for use.
-| Repo | Name  | Visibility | License | Related Link |
-| --- | --- | --- | --- | --- |
-| Minterr.io (V1) | [minterr-app](https://github.com/xray-network/minterr-app) | public | MIT | https://minterr.io |
-| RayWallet (V1) | [raywallet-app](https://github.com/xray-network/raywallet-app) | public | MIT | https://app.raywallet.io |
