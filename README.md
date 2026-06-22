@@ -51,8 +51,9 @@ High-performance APIs for Cardano developers, enabling real-time blockchain data
 Processing Backend:
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Output | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | https://graph.xray.app/output/ |
-| Output Stats TS Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | — | https://graph.xray.app/output/ |
+| Output | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | https://graph.xray.app |
+| Output Stats TS Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | — | https://graph.xray.app |
+| XRAY/Network Stats | [xray-network-stats](https://github.com/xray-network/xray-network-stats) | private | — | https://graph.xray.app/stats/ |
 
 <hr />
 
@@ -87,7 +88,7 @@ Services (Private, Private License): https://github.com/xray-network/xray-graph-
 Pigz.io — a fun Cardano-based clicker game combining entertainment with blockchain integration.
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Pigz.io The Game | [pigz](https://github.com/xray-network/pigz) | private | — | https://pigz.io | 
+| Pigz.io The Game | [pigz](https://github.com/xray-network/pigz) | private | — | https://pigz.io, https://app.pigz.io, https://t.me/pigz_io_bot | 
 
 <br />
 
