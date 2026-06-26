@@ -21,6 +21,8 @@ Developer-focused resources, libraries, and utilities to build, test, and deploy
 | Mini App SDK | [xray-mini-app-sdk](https://github.com/xray-network/xray-mini-app-sdk) | public | MIT | — |
 | Mini App Template React | [xray-mini-app-template-react](https://github.com/xray-network/xray-mini-app-template-react) | public | MIT | https://mini-app-template-react.xray.app |
 | Cardano WASM Libs | [cardano-wasm-libs](https://github.com/xray-network/cardano-wasm-libs) | public | MIT | https://cardano-web3-js.org |
+| Resources CDN | [cdn](https://github.com/xray-network/cdn) | private | — | https://cdn.xray.app |
+| DESIGN.md | [xray-design-md](https://github.com/xray-network/xray-design-md) | public | — | — |
 
 <br />
 
@@ -96,6 +98,5 @@ Pigz.io — a fun Cardano-based clicker game combining entertainment with blockc
 Additional repositories and projects that support or complement the XRAY ecosystem.
 | Repo | Name  | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Resources CDN | [cdn](https://github.com/xray-network/cdn) | private | — | https://cdn.xray.app |
 | Captcha (Cloudflare Workers) | [cloudflare-workers-captcha](https://github.com/xray-network/cloudflare-workers-captcha) | public | MIT | — |
 | CardanoWeb3js Tutorial | [cw3js-video-tutorial](https://github.com/xray-network/cw3js-video-tutorial) | public | MIT | https://www.youtube.com/watch?v=yA1FpOxEvFE |
