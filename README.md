@@ -53,9 +53,10 @@ High-performance APIs for Cardano developers, enabling real-time blockchain data
 Processing Backend:
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| Output | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | https://graph.xray.app |
-| Output Stats TS Client | [xray-graph-output-stats-client](https://github.com/xray-network/xray-graph-output-stats-client) | public | — | https://graph.xray.app |
+| Output | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | https://graph.xray.app/output/ |
+| Output TS Client | [xray-graph-output](https://github.com/xray-network/xray-graph-output) | private | — | https://www.npmjs.com/package/xray-graph-output-client |
 | XRAY/Network Stats | [xray-network-stats](https://github.com/xray-network/xray-network-stats) | private | — | https://graph.xray.app/stats/ |
+| XRAY/Network Stats TS Client | [xray-network-stats](https://github.com/xray-network/xray-network-stats) | private | — | https://www.npmjs.com/package/xray-stats-client |
 
 <hr />
 
