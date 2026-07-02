@@ -7,8 +7,9 @@ Map of repositories so you don't get confused.
 Overview of the core components that make up the XRAY platform and its infrastructure.
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| XRAY/App | [xray-app](https://github.com/xray-network/xray-app) | private | — | https://xray.app, https://t.me/xray_app_bot | 
+| XRAY/Network | [xray-network](https://github.com/xray-network/xray-network) | private | — | https://xraynetwork.io | 
 | XRAY/Foundation | [xray-foundation](https://github.com/xray-network/xray-foundation) | private | — | https://xray.foundation | 
+| XRAY/App | [xray-app](https://github.com/xray-network/xray-app) | private | — | https://xray.app, https://t.me/xray_app_bot | 
 | XRAY/Vault | [xray-vault](https://github.com/xray-network/xray-vault) | public | MIT | https://vault.xray.app, https://t.me/xray_vault_bot | 
 
 <br />
