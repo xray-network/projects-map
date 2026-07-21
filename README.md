@@ -10,7 +10,7 @@ Overview of the core components that make up the XRAY platform and its infrastru
 | XRAY/Network | [xray-network](https://github.com/xray-network/xray-network) | private | — | https://xraynetwork.io | 
 | XRAY/Foundation | [xray-foundation](https://github.com/xray-network/xray-foundation) | private | — | https://xray.foundation | 
 | XRAY/App | [xray-app](https://github.com/xray-network/xray-app) | private | — | https://xray.app, https://t.me/xray_app_bot | 
-| XRAY/Vault | [xray-vault](https://github.com/xray-network/xray-vault) | public | MIT | https://vault.xray.app, https://t.me/xray_vault_bot | 
+| XRAY/Vault | [xray-vault](https://github.com/xray-network/xray-vault) | public | MIT | https://vault.xraynetwork.io, https://t.me/xray_vault_bot | 
 
 <br />
 
@@ -18,12 +18,12 @@ Overview of the core components that make up the XRAY platform and its infrastru
 Developer-focused resources, libraries, and utilities to build, test, and deploy Cardano DApps.
 | Name | Repo | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
-| CardanoWeb3js | [cardano-web3-js](https://github.com/xray-network/cardano-web3-js) | public | MIT | https://cardano-web3-js.org |
+| XRAY/JS | [xray-js](https://github.com/xray-network/xray-js) | public | MIT | https://js.xraynetwork.io |
 | Mini App SDK | [xray-mini-app-sdk](https://github.com/xray-network/xray-mini-app-sdk) | public | MIT | — |
 | Mini App Template React | [xray-mini-app-template-react](https://github.com/xray-network/xray-mini-app-template-react) | public | MIT | https://mini-app-template-react.xray.app |
 | Cardano WASM Libs | [cardano-wasm-libs](https://github.com/xray-network/cardano-wasm-libs) | public | MIT | https://cardano-web3-js.org |
-| Resources CDN | [cdn](https://github.com/xray-network/cdn) | private | — | https://cdn.xray.app |
-| DESIGN.md | [xray-design-md](https://github.com/xray-network/xray-design-md) | public | — | https://design-md.xray.app |
+| Resources CDN | [cdn](https://github.com/xray-network/cdn) | private | — | https://cdn.xraynetwork.io |
+| DESIGN.md | [xray-design](https://github.com/xray-network/xray-design) | public | — | https://design.xraynetwork.io |
 
 <br />
 
@@ -35,7 +35,6 @@ A curated collection of official XRAY Mini Apps designed for Cardano users.
 | Assets | [xray-mini-app-assets](https://github.com/xray-network/xray-mini-app-assets) | public | MIT | https://xray.app/app/assets | https://assets.xray.app |
 | Transactions | [xray-mini-app-transactions](https://github.com/xray-network/xray-mini-app-transactions) | public | MIT | https://xray.app/app/transactions | https://transactions.xray.app |
 | Stake | [xray-mini-app-stake](https://github.com/xray-network/xray-mini-app-stake) | public | MIT | https://xray.app/app/stake | https://stake.xray.app |
-| Wiki | [xray-mini-app-wiki](https://github.com/xray-network/xray-mini-app-wiki) | public | MIT | https://xray.app/app/wiki | https://wiki.xray.app |
 | AI | [xray-mini-app-ai](https://github.com/xray-network/xray-mini-app-ai) | public | MIT | https://xray.app/app/ai | https://ai.xray.app |
 | Explorer | [xray-mini-app-explorer](https://github.com/xray-network/xray-mini-app-explorer) | public | MIT | https://xray.app/app/explorer | https://cardano-explorer.org |
 | Governance | [xray-mini-app-governance](https://github.com/xray-network/xray-mini-app-governance) | public | MIT | https://xray.app/app/governance | https://governance.xray.app |
@@ -101,4 +100,3 @@ Additional repositories and projects that support or complement the XRAY ecosyst
 | Repo | Name  | Visibility | License | Related Link |
 | --- | --- | --- | --- | --- |
 | Captcha (Cloudflare Workers) | [cloudflare-workers-captcha](https://github.com/xray-network/cloudflare-workers-captcha) | public | MIT | — |
-| CardanoWeb3js Tutorial | [cw3js-video-tutorial](https://github.com/xray-network/cw3js-video-tutorial) | public | MIT | https://www.youtube.com/watch?v=yA1FpOxEvFE |
